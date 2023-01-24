@@ -1,0 +1,261 @@
+@use "../abstract" as *;
+
+/*----------------------------------------*/
+/*   23. Accordion CSS
+/*----------------------------------------*/
+
+.bd-faq__accordion .accordion-item {
+	background-color: var(--clr-common-white);
+	border: 0;
+	border-bottom: 1px solid #f4f4f4;
+	border-left: 0;
+	border-right: 0;
+	padding: 5px 0;
+	&:first-of-type {
+		border-top: 1px solid #f4f4f4;
+		.accordion-button {
+			border-radius: 0;
+		}
+	}
+}
+.bd-faq__accordion .accordion-body {
+	padding: 1rem 1.5rem;
+	@media #{$xs} {
+		padding: 1rem 0rem;
+	}
+}
+.bd-faq__accordion .accordion-button {
+	padding: 1rem 1.5rem;
+	@media #{$xs} {
+		padding: 1rem 0rem;
+	}
+	&:not(.collapsed) {
+		color: var(--clr-theme-4);
+		background-color: var(--clr-common-white);
+		box-shadow: none;
+	}
+	&:focus {
+		z-index: 3;
+		border-color: #86b7fe;
+		outline: 0;
+		box-shadow: none;
+	}
+	&::after {
+		margin-left: auto;
+		content: "+";
+		font-family: "Font Awesome 6 Pro";
+		font-size: 20px;
+		color: var(--clr-theme-5);
+		height: inherit;
+		width: auto;
+		background-image: none;
+		background-size: 0;
+		@include transition(0.5s);
+	}
+	&:not(.collapsed)::after {
+		content: "-";
+		font-family: "Font Awesome 6 Pro";
+		font-size: 20px;
+		color: var(--clr-theme-5);
+		background-image: none;
+		transform: rotate(180deg);
+		@include transition(0.5s);
+	}
+}
+.bd-faq__accordion .bd-accordion__tittle {
+	color: var(--clr-theme-4);
+	font-size: 20px;
+	font-weight: 700;
+	@media #{$xs} {
+		font-size: 18px;
+	}
+}
+
+// Accordion-style-2
+.bd-accordiong__style-2 {
+	.accordion-item {
+		border: 0;
+		margin-bottom: 15px;
+		padding: 0;
+		border-left: 2px solid var(--clr-theme-6);
+		&:first-of-type {
+			border-top-left-radius: 0;
+			border-top-right-radius: 0;
+		}
+		&:last-of-type {
+			border-bottom-right-radius: 0rem;
+			border-bottom-left-radius: 0rem;
+			.accordion-button {
+				&.collapsed {
+					border-bottom-right-radius: 0;
+					border-bottom-left-radius: 0;
+				}
+			}
+		}
+		&:last-child {
+			margin-bottom: 0;
+		}
+		&.accordion-button {
+			collapsed {
+				border-left: 0;
+			}
+		}
+	}
+	.accordion-body {
+		background: var(--clr-common-white);
+		padding: 0px 30px 7px 30px;
+	}
+	.accordion-button {
+		background-color: #40464b;
+		padding: 16.5px 30px;
+		@media #{$xs} {
+			padding: 16.5px 15px;
+		}
+		&.collapsed {
+			.bd-accordion__tittle {
+				span {
+					color: var(--clr-common-white);
+					font-size: 18px;
+					font-weight: 700;
+				}
+			}
+		}
+		.bd-accordion__tittle {
+			span {
+				color: var(--clr-common-text-4);
+				font-size: 18px;
+				font-weight: 700;
+			}
+		}
+		&:focus {
+			box-shadow: none;
+		}
+		&:not(.collapsed) {
+			color: #0c63e4;
+			background: var(--clr-common-white) !important;
+		}
+		&::after {
+			margin-left: auto;
+			content: "+";
+			font-family: "Font Awesome 6 Pro";
+			font-size: 20px;
+			color: var(--clr-theme-5);
+			height: inherit;
+			width: auto;
+			background-image: none;
+			background-size: 0;
+			@include transition(0.5s);
+		}
+		&:not(.collapsed)::after {
+			content: "-";
+			font-family: "Font Awesome 6 Pro";
+			font-size: 20px;
+			color: var(--clr-theme-5);
+			background-image: none;
+			transform: rotate(180deg);
+			@include transition(0.5s);
+		}
+	}
+}
+.accordion-button {
+	&::after {
+		color: var(--clr-common-white);
+	}
+	&:not(.collapsed) {
+		box-shadow: none;
+	}
+}
+.accordion-item {
+	&:first-of-type {
+		.accordion-button {
+			border-top-left-radius: 0;
+			border-top-right-radius: 0;
+		}
+	}
+}
+
+// Accordiong-3-style
+.bd-faq__accordion-2 {
+	.accordion-item {
+		border: 0;
+		border-top: 1px solid #eaeaea;
+		&:first-of-type {
+			border-left: 0;
+			border-right: 0;
+			.accordion-button {
+				border-top-left-radius: 0;
+				border-top-right-radius: 0;
+			}
+		}
+		&:last-child {
+			border-bottom: 1px solid #eaeaea;
+		}
+		@media #{$xs} {
+			padding: 0px;
+		}
+	}
+	.accordion-button {
+		&:not(.collapsed) {
+			background-color: transparent;
+			box-shadow: none;
+		}
+		&:focus {
+			z-index: 3;
+			border-color: #86b7fe;
+			outline: 0;
+			box-shadow: none;
+		}
+		&::after {
+			color: var(--clr-common-text-2);
+			margin-left: auto;
+			content: "+";
+			font-family: "Font Awesome 6 Pro";
+			font-size: 20px;
+			color: var(--clr-common-text-2);
+			height: inherit;
+			width: auto;
+			background-image: none;
+			background-size: 0;
+		}
+		&:not(.collapsed)::after {
+			content: "-";
+			font-family: "Font Awesome 6 Pro";
+			font-size: 20px;
+			color: var(--clr-common-text-2);
+			background-image: none;
+			transform: rotate(180deg);
+		}
+	}
+	.bd-accordion__number {
+		background: -webkit-linear-gradient(
+			0deg,
+			rgb(255, 56, 52) 0%,
+			rgb(255, 112, 51) 100%
+		);
+		background-clip: border-box;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		font-size: 18px;
+		font-weight: 700;
+		padding-right: 15px;
+	}
+	.bd-accordion__title {
+		color: var(--clr-common-text-2);
+		font-size: 18px;
+		font-weight: 700;
+	}
+	.accordion-button {
+		@media #{$xxs} {
+			padding: 1rem 0rem;
+		}
+	}
+	.accordion-body {
+		padding: 0rem 1.25rem;
+		@media #{$xxs} {
+			padding: 0rem 0rem;
+		}
+		p {
+			padding-left: 40px;
+		}
+	}
+}

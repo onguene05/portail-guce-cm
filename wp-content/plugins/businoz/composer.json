@@ -1,0 +1,13 @@
+{
+    "name": "bdevs-elementor/plugin",
+    "description": "this is the pro version of eduman elements plugin",
+    "type": "wordpress-plugin",
+    "license": "gplv2 or later",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bdevs\\Elementor\\": [ "includes/", "widgets/", "classes/" ]
+        }
+    }
+}

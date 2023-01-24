@@ -1,0 +1,14 @@
+{
+    "name": "wordpress/plugin",
+    "description": "The ultimate Elementor Addons",
+    "type": "wordpress-plugin",
+    "license": "gplv2 or later",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Generic\\Elements\\": [ "includes/", "widgets/", "classes/" ]
+        },
+        "files": [ "files/helper-function.php" ]
+    }
+}

@@ -1,0 +1,150 @@
+
+---Downloaded files---
+The import files for: Home 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/portail-guce-cm
+Data file = C:\wamp64\www\portail-guce-cm/wp-content/themes/businoz/businoz/sample-data/contents-demo.xml
+Widget file = C:\wamp64\www\portail-guce-cm/wp-content/themes/businoz/businoz/sample-data/widget-settings.json
+Customizer file = C:\wamp64\www\portail-guce-cm/wp-content/themes/businoz/businoz/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Rechercher - Search Here - Imported
+Businoz Sidebar Posts Image - Popular Feeds - Imported
+Catégories - Categories - Imported
+Nuage d’étiquettes - Instagram Feeds - Imported
+
+Product Sidebar : 
+
+Bloc - No Title - Widget already exists
+Bloc - No Title - Imported
+
+Service Sidebar : 
+
+HTML personnalisé - Our Services - Imported
+HTML personnalisé - Our Materials - Imported
+Image - No Title - Imported
+
+Footer 1 : 
+
+HTML personnalisé - No Title - Imported
+
+Footer 2 : 
+
+Menu de navigation - Main Pages - Imported
+
+Footer 3 : 
+
+Menu de navigation - Our Services - Imported
+
+Footer 4 : 
+
+HTML personnalisé - News &amp; Feeds - Imported
+
+Footer Style 2 : 1 : 
+
+HTML personnalisé - About Us - Imported
+
+Footer Style 2 : 2 : 
+
+Menu de navigation - Main Pages - Imported
+
+Footer Style 2 : 3 : 
+
+Menu de navigation - Our Services - Imported
+
+Footer Style 2 : 4 : 
+
+HTML personnalisé - No Title - Imported
+
+Footer Style 3 : 1 : 
+
+HTML personnalisé - About Us - Imported
+
+Footer Style 3 : 2 : 
+
+Menu de navigation - Main Pages - Imported
+
+Footer Style 3 : 3 : 
+
+HTML personnalisé - Get In Touch - Imported
+
+Footer Style 3 : 4 : 
+
+HTML personnalisé - News &amp; Feeds - Imported
+
+Footer Style 4 : 1 : 
+
+HTML personnalisé - About Us - Imported
+
+Footer Style 4 : 2 : 
+
+Menu de navigation - Main Pages - Imported
+
+Footer Style 4 : 3 : 
+
+HTML personnalisé - Get In Touch - Imported
+
+Footer Style 4 : 4 : 
+
+HTML personnalisé - News &amp; Feeds - Imported
+
+Footer Style 5 : 1 : 
+
+HTML personnalisé - About Us - Imported
+
+Footer Style 5 : 2 : 
+
+Menu de navigation - Main Pages - Imported
+
+Footer Style 5 : 3 : 
+
+Menu de navigation - Our Services - Imported
+
+Footer Style 5 : 4 : 
+
+HTML personnalisé - Get In Touch - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

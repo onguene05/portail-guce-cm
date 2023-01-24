@@ -1,0 +1,436 @@
+@use "../abstract" as *;
+
+/*-----------------------------------------------------------------------------------
+
+    Theme Name: Businoz - Multipurpose Business WordPress Theme
+    Author: Bdevs
+    Support: https://www.devsnews.com/support/
+    Description: Businoz - Multipurpose Business WordPress Theme
+    Version: 1.0
+
+-----------------------------------------------------------------------------------
+
+/************ TABLE OF CONTENTS ***************
+
+    01. THEME DEFAULT CSS
+    02. Header CSS
+    03. Hero CSS
+    04. Section-title CSS
+    05. Button CSS
+    06. About CSS
+    07. Servic CSS
+    08. Portfolio CSS
+    09. Process CSS
+    10. Team CSS
+    11. Testimonial CSS
+    12. Video CSS
+    13. Brand CSS
+    14. Blog CSS
+    15. Features CSS
+    16. Skill CSS
+    17. Client CSS
+    18. Cta CSS
+    19. Faq CSS
+    20. History Title CSS
+    21. Pricing CSS
+    22. IntregrationCSS
+    23.	Acordion  CSS
+    24.	Course CSS
+    25.	Breadcrumb  CSS
+    26.	Counter  CSS
+    27.	Award CSS
+    28.	Modal CSS
+    29.	Footer CSS
+    30.	Contact CSS
+    31.	Animation CSS
+
+
+**********************************************/
+
+/*----------------------------------------*/
+/*  01. Theme default CSS
+/*----------------------------------------*/
+
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: $jost;
+	font-size: 16px;
+	font-weight: 400;
+	color: var(--clr-common-text);
+	line-height: 26px;
+}
+
+a {
+	text-decoration: none;
+}
+a,
+.btn,
+button,
+span,
+p,
+i,
+input,
+select,
+textarea,
+li,
+img,
+svg path,
+*::after,
+*::before,
+.transition-3,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	@include transition(0.5s);
+}
+a:focus,
+.button:focus {
+	text-decoration: none;
+	outline: none;
+}
+a:focus,
+a:hover {
+	color: inherit;
+	text-decoration: none;
+}
+a,
+button {
+	color: inherit;
+	outline: none;
+	border: none;
+	background: transparent;
+}
+button:hover {
+	cursor: pointer;
+}
+button:focus {
+	outline: 0;
+	border: 0;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.capitalize {
+	text-transform: capitalize;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: $jost;
+	color: var(--clr-common-text-2);
+	margin-top: 0px;
+	font-weight: 700;
+	line-height: 1.35;
+	margin-bottom: 0;
+	@include transition(0.5s);
+}
+
+h1 {
+	font-size: 80px;
+}
+h2 {
+	font-size: 60px;
+}
+h3 {
+	font-size: 24px;
+}
+h4 {
+	font-size: 20px;
+}
+h5 {
+	font-size: 16px;
+}
+h6 {
+	font-size: 14px;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	font-weight: normal;
+	margin-bottom: 15px;
+	color: var(--clr-common-paragraph);
+	line-height: 26px;
+}
+
+*::-moz-selection {
+	background: var(--clr-common-black);
+	color: var(--clr-common-white);
+	text-shadow: none;
+}
+::-moz-selection {
+	background: var(--clr-common-black);
+	color: var(--clr-common-white);
+	text-shadow: none;
+}
+::selection {
+	background: var(--clr-common-black);
+	color: var(--clr-common-white);
+	text-shadow: none;
+}
+
+/*---------------------------------
+ Input Placeholder
+-----------------------------------------*/
+
+*::-moz-placeholder {
+	color: var(--clr-common-placeholder);
+	font-size: 14px;
+	opacity: 1;
+}
+*::placeholder {
+	color: var(--clr-common-placeholder);
+	font-size: 14px;
+	opacity: 1;
+}
+
+/*---------------------------------
+    common classes css start 
+---------------------------------*/
+
+.w-img {
+	& img {
+		max-width: 100%;
+	}
+}
+.m-img {
+	& img {
+		max-width: 100%;
+	}
+}
+.fix {
+	overflow: hidden;
+}
+.clear {
+	clear: both;
+}
+
+.f-left {
+	float: left;
+}
+.f-right {
+	float: right;
+}
+
+.z-index-1 {
+	z-index: 1;
+}
+
+.z-index-11 {
+	z-index: 11;
+}
+.z-index-minus {
+	z-index: -1;
+}
+
+.overflow-y-visible {
+	overflow-x: hidden;
+	overflow-y: visible;
+}
+
+.p-relative {
+	position: relative;
+}
+.p-absolute {
+	position: absolute;
+}
+.pos-rel {
+	position: relative;
+}
+.pos-abs {
+	position: absolute;
+}
+/*----------------------------------------
+ Background color
+-----------------------------------------*/
+
+.section-bg {
+	background: var(--clr-bg-section);
+}
+.section-bg-2 {
+	background: var(--clr-bg-section-2);
+}
+.section-bg-3 {
+	background: var(--clr-bg-section-3);
+}
+.section-bg-4 {
+	background: var(--clr-common-text-4);
+}
+.section-bg-5 {
+	background: var(--clr-common-text-2);
+}
+.blue-bg {
+	background: var(--clr-theme-4);
+	/*background-color: #16578F;*/
+}
+.grey-bg {
+	background: var(--clr-bg-gray);
+}
+.pink-bg {
+	background: var(--clr-common-black);
+}
+.yello-bg {
+	background: var(--clr-theme-5);
+}
+.theme-bg {
+	background: var(--clr-theme-1);
+}
+.white-bg {
+	background: var(--clr-common-white);
+}
+.black-bg {
+	background: var(--clr-common-black);
+}
+.black-bg-2 {
+	background: var(--clr-bg-black);
+}
+.footer-bg-2 {
+	background: var(--clr-bg-footer-2);
+}
+.footer-bg-3 {
+	background: var(--clr-bg-footer-3);
+}
+.footer-bg-4 {
+	background: var(--clr-bg-footer-4);
+}
+
+.text-white h1,
+.text-white h2,
+.text-white h3,
+.text-white h4,
+.text-white h5,
+.text-white h6,
+.text-white p,
+.text-white span,
+.text-white li,
+.text-white a {
+	color: var(--clr-common-white) !important;
+}
+
+.white-color {
+	color: var(--clr-common-white);
+}
+
+.theme-color {
+	color: var(--clr-common-black) !important;
+}
+.black-color {
+	color: var(--clr-common-black);
+}
+
+/*----------------------------------------
+    Body Overlay 
+-----------------------------------------*/
+
+.body-overlay {
+	background-color: rgba($color: #000000, $alpha: 0.5);
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	z-index: 998;
+	left: 0;
+	opacity: 0;
+	visibility: hidden;
+	@include transition(0.5s);
+
+	&:hover {
+		cursor: pointer;
+	}
+}
+.body-overlay.opened {
+	opacity: 1;
+	visibility: visible;
+}
+
+/*----------------------------------------
+    Progress Wrap
+-----------------------------------------*/
+
+.progress-wrap {
+	@media #{$xs} {
+		right: 15px;
+		bottom: 15px;
+	}
+}
+
+/*----------------------------------------
+Declaration
+-----------------------------------------*/
+
+:root {
+	/**
+    @color declaration
+    */
+	@each $color, $shades in $colors {
+		@each $shade, $value in $shades {
+			--clr-#{$color}-#{$shade}: #{$value};
+		}
+	}
+}
+
+/*----------------------------------------
+Bootstrap css
+-----------------------------------------*/
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+	width: 100%;
+	padding-right: var(--bs-gutter-x, 15px);
+	padding-left: var(--bs-gutter-x, 15px);
+	margin-right: auto;
+	margin-left: auto;
+}
+.row {
+	--bs-gutter-x: 30px;
+}
+.g-0,
+.gx-0 {
+	--bs-gutter-x: 0;
+}
+.g-0,
+.gy-0 {
+	--bs-gutter-y: 0;
+}
+.g-2,
+.gy-2 {
+	--bs-gutter-y: 0.5rem;
+}
+.g-2,
+.gx-2 {
+	--bs-gutter-x: 0.5rem;
+}
+.gx-10 {
+	--bs-gutter-x: 10px;
+}
+.gx-20 {
+	--bs-gutter-x: 20px;
+}
+@media (min-width: 1400px) {
+	.container,
+	.container-lg,
+	.container-md,
+	.container-sm,
+	.container-xl,
+	.container-xxl {
+		max-width: 1320px;
+	}
+}
+body:not(.modal-open) {
+	padding-right: 0px !important;
+}

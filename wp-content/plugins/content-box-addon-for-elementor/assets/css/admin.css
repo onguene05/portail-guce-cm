@@ -1,0 +1,293 @@
+.elementor-widget-cbae_content_box_addon .cbae-container {
+	display: block;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	text-align: left;
+}
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-left { text-align: left; }
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-center { text-align: center; }
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-right { text-align: right; }
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-left hr,
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-left.cbae-design-6 .cbae-box-icon { margin-left: 0; margin-right: auto; }
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-center hr,
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-center.cbae-design-6 .cbae-box-icon { margin: 0 auto; }
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-right hr,
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-right.cbae-design-6 .cbae-box-icon { margin-left: auto; margin-right: 0; }
+
+.elementor-widget-cbae_content_box_addon .cbae-columns .cbae-box {
+	position: relative;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-vertical .cbae-info {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+		-ms-flex-direction: column;
+			flex-direction: column;
+	-webkit-box-pack: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		-webkit-box-align: center;
+		-ms-flex-align: center;
+	-ms-grid-row-align: center;
+			align-items: center;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container .cbae-box h4 {
+	margin: 0;
+	padding: 10px 0;
+	font-size: 35px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container .cbae-box p {
+	margin: 0;
+	padding: 10px 0;
+	font-weight: normal;
+    font-size: 15px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container .cbae-button {
+	margin-bottom: 10px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container .cbae-button a {
+    display: inline-block;
+    margin: 20px;
+    background: #fff;
+    color: #444;
+    padding: 20px 40px;
+    border-radius: 60px;
+	box-shadow: none;
+    font-weight: bold;
+	transition: all 0.35s;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container .cbae-box .cbae-button a {
+	box-shadow: none;
+    display: inline-block;
+	margin-bottom: 10px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-columns .cbae-box {
+	height: 100%;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-columns .cbae-box .cbae-layer {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	opacity: 0;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-columns .cbae-box:hover .cbae-layer {
+	opacity: 1;
+}
+
+/*---1st Design---*/
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-1 .cbae-columns .cbae-box {
+    background: #fff;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.1), 0 6px 12px rgba(0,0,0,0.1) !important;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 5px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-1 .cbae-columns .cbae-box .cbae-info {
+	padding: 20px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-1 img {
+    width: 100%;
+	border-radius: 5px;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-1 .cbae-tag {
+    font-size: 12px;
+    color: #009fff;
+	margin: 0;
+	padding: 0;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-1 h4 {
+    color: #232323;
+    padding-bottom: 0;
+    font-weight: 700;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-1 p {
+    color: #a2a2a2;
+}
+
+/*---2nd Design---*/
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-2 .cbae-columns .cbae-box {
+    background: -webkit-linear-gradient(bottom left, #00c6ff, #0072ff);
+    background: linear-gradient(to top right, #00c6ff, #0072ff);
+    color: #fff;
+    border-radius: 4px;
+	padding: 20px 10px 0;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-2 h4 {
+	padding-top: 0;
+	padding-bottom: 20px;
+	font-family: 'Playfair Display', sans-serif;
+    font-size: 40px;
+	line-height: 1.25;
+	color: #ffffff;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-2 p {
+	color: #ffffff;
+}
+
+/*---3rd Design---*/
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-3 .cbae-box {
+    background: #fafafa;
+    display: flex;
+	padding-top: 20px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-3 .cbae-box-left {
+    flex: 1;
+    text-align: center;
+    margin: 10px 10px 20px 10px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-3 .cbae-box-right {
+    flex: 4;
+	text-align: left;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-3 h4 {
+	padding-bottom: 0;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-3 p {
+    color: #999;
+	padding-bottom: 30px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-3 .cbae-box-icon {
+    font-size: 50px;
+    color: #4dadf7;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-3 img.cbae-box-icon {
+	vertical-align: top;
+}
+
+/*---4th Design---*/
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-4 .cbae-box {
+    background: #fafafa;
+    padding: 30px 20px 20px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-4 h4 {
+    font-size: 1.5em;
+	padding-bottom: 0;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-4 .cbae-box-icon {
+    font-size: 60px;
+}
+
+
+/*---5th Design---*/
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-5 .cbae-box {
+    color: #fff;
+    background: #29323c;
+    padding: 10px 20px 20px;
+    border-radius: 5px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-5 h4 {
+	color: white;
+    font-family: 'Playfair Display', sans-serif;
+    font-weight: 900;
+    font-size: 2.2em;
+	padding: 10px 0 20px 0;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-5 p {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.2em;
+    line-height: 1.5em;
+	padding-top: 20px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-5 hr {
+    max-width: 25%;
+    border: 0;
+    border-bottom: 2px solid #1079fa;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-5 .cbae-box-icon {
+    font-size: 60px;
+}
+
+
+/*---6th Design---*/
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-6 .cbae-box {
+    background: #fafafa;
+    padding: 20px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-6 h4 {
+    font-size: 1.5em;
+	padding: 10px 0 0;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-6 p {
+    color: #6a6a6a;
+    font-weight: bold;
+    line-height: 1.5em;
+	padding-bottom: 0;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-6 .cbae-box-icon {
+    background: #222;
+    font-size: 40px;
+    padding: 20px;
+    border-radius: 50%;
+    color: #fff;
+	position: relative;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+/*---7th Design---*/
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-7 .cbae-box {
+    background: #29323c;
+    padding: 30px;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-7 h4 {
+	color: white;
+    font-size: 34px;
+	padding: 10px 0 0;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-7 p {
+    color: white;
+    line-height: 1.5em;
+	padding-bottom: 0;
+}
+
+.elementor-widget-cbae_content_box_addon .cbae-container.cbae-design-7 .cbae-box-icon {
+	color: #1079fa;
+	font-size: 45px;
+}

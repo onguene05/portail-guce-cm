@@ -1,0 +1,41 @@
+.generic-video-area {
+	width: 100%;
+	min-height: 500px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: relative;
+}
+.generic-video-area::before {
+	position: absolute;
+	content: "";
+	background-color: #000;
+	height: 100%;
+	width: 100%;
+	opacity: 0.5;
+}
+.generic-el-video-wrapper .generic-el-video-popup {
+	position: absolute;
+	left: 0;
+	right: 0;
+	z-index: 1;
+	top: 50%;
+	transform: translateY(-50%);
+	margin: 0 auto;
+	text-align: center;
+}
+.popup-video {
+	color: #4A66FA;
+	background: #ffffff;
+	border-radius: 50%;
+	font-size: 15px;
+	line-height: 90px;
+	display: inline-block;
+	width: 90px;
+	height: 90px;
+	text-align: center;
+	position: relative;
+	z-index: 1;
+	animation: pulseBig infinite 5s linear;
+	transition: .3s;
+}

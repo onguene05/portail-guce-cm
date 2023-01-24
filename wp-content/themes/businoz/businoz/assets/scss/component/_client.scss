@@ -1,0 +1,61 @@
+
+@use "../abstract" as *;
+
+
+/*----------------------------------------*/
+/*   17. Clientt CSS
+/*----------------------------------------*/
+
+
+// Clientt-css-style
+.pt-240{
+	padding-top: 240px;
+}
+.client__title {
+	padding-left: 50px;
+	@media #{$xs,$sm,$md}{
+		padding-left: 0;
+	}
+}
+.bd-clients__border {
+	&::after {
+		position: absolute;
+		content: "";
+		height: 1px;
+		width: 100%;
+		z-index: 5;
+		top: -120px;
+		border-radius: 50%;
+		background-color: var(--clr-border-8);
+	}
+}
+.bd-clientt_boeder {
+	position: relative;
+	&::before {
+		position: absolute;
+		content: "";
+		height: 1px;
+		width: 100%;
+		background: #e1e1e1;
+		bottom: -120px;
+	}
+}
+.client__brand {
+	@media #{$xs}{
+		text-align: center !important;
+	}
+	a {
+		img {
+			filter: contrast(0%);
+		}
+		&:hover {
+			img {
+				filter: contrast(100%);
+			}
+		}
+	}
+}
+.bd-skill__active {
+	position: relative;
+	margin-right: -375px !important;
+}

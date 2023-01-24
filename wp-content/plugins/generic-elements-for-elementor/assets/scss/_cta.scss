@@ -1,0 +1,36 @@
+.generic-cta-area{
+    position: relative;
+    z-index: 2;
+    background-size: cover;
+    background-position: center center;
+    &::after{
+        position: absolute;
+        content: "";
+        background: #000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        opacity: .5;
+        z-index: -1;
+    }
+}
+
+.generic-el-cta-wrapper {
+    text-align: center;
+    h2{
+        color: #fff;
+    }
+    p{
+        color: #fff;
+        margin-bottom: 25px;
+    }
+    span{
+        &.generic-el-subtitle {
+            display: inline-block;
+            color: #fff;
+            margin-bottom: 12px;
+        }
+    }
+
+}

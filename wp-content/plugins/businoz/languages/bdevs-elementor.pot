@@ -1,0 +1,2736 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bdevs Elementor\n"
+"POT-Creation-Date: 2022-06-07 19:44+0600\n"
+"PO-Revision-Date: 2022-06-07 19:44+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bdevs-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: classes/IconLoader.php:17
+msgid "FlatIcons"
+msgstr ""
+
+#: includes/Helper.php:16
+msgid "about"
+msgstr ""
+
+#: includes/Helper.php:20
+msgid "about-tab"
+msgstr ""
+
+#: includes/Helper.php:24
+msgid "advanced-price"
+msgstr ""
+
+#: includes/Helper.php:28
+msgid "pricingtable"
+msgstr ""
+
+#: includes/Helper.php:32
+msgid "hero"
+msgstr ""
+
+#: includes/Helper.php:36
+msgid "cta"
+msgstr ""
+
+#: includes/Helper.php:40
+msgid "brand"
+msgstr ""
+
+#: includes/Helper.php:44
+msgid "counter"
+msgstr ""
+
+#: includes/Helper.php:48
+msgid "course_tab"
+msgstr ""
+
+#: includes/Helper.php:52
+msgid "course-list"
+msgstr ""
+
+#: includes/Helper.php:56
+msgid "accordion"
+msgstr ""
+
+#: includes/Helper.php:60
+msgid "skill"
+msgstr ""
+
+#: includes/Helper.php:64
+msgid "sticky-video"
+msgstr ""
+
+#: includes/Helper.php:68
+msgid "post-list"
+msgstr ""
+
+#: includes/Helper.php:72
+msgid "featured_list"
+msgstr ""
+
+#: includes/Helper.php:76
+msgid "advanced-slider"
+msgstr ""
+
+#: includes/Helper.php:80
+msgid "banner"
+msgstr ""
+
+#: includes/Helper.php:84
+msgid "iconbox"
+msgstr ""
+
+#: includes/Helper.php:88
+msgid "team"
+msgstr ""
+
+#: includes/Helper.php:92
+msgid "contact form"
+msgstr ""
+
+#: includes/Helper.php:96
+msgid "heading"
+msgstr ""
+
+#: includes/Helper.php:100
+msgid "testimonial-slider"
+msgstr ""
+
+#: includes/Helper.php:104
+msgid "video-info"
+msgstr ""
+
+#: includes/Helper.php:108
+msgid "instructor"
+msgstr ""
+
+#: includes/Helper.php:112
+msgid "event-list"
+msgstr ""
+
+#: includes/HelperFunction.php:58 widgets/CF7.php:87 widgets/CF7.php:135
+msgid "Select Form"
+msgstr ""
+
+#: includes/HelperFunction.php:64 widgets/CF7.php:93
+msgid "No contact form found"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/RegisterWidgets.php:25
+msgid "Bdevs Elementor"
+msgstr ""
+
+#: widgets/About.php:34
+msgid "About"
+msgstr ""
+
+#: widgets/About.php:94 widgets/Accordion.php:81 widgets/Banner.php:90
+#: widgets/Brand.php:90 widgets/CF7.php:104 widgets/CallToAction.php:83
+#: widgets/Counter.php:85 widgets/CourseList.php:114 widgets/CourseTab.php:133
+#: widgets/EventList.php:88 widgets/FeaturedList.php:86 widgets/Heading.php:88
+#: widgets/Hero.php:91 widgets/Iconbox.php:87 widgets/Instructor.php:75
+#: widgets/PostList.php:474 widgets/PricingTable.php:88 widgets/Team.php:75
+#: widgets/TestimonialSlider.php:87 widgets/VideoInfo.php:84
+msgid "Presets"
+msgstr ""
+
+#: widgets/About.php:101 widgets/Accordion.php:89 widgets/Banner.php:98
+#: widgets/Brand.php:98 widgets/CF7.php:111 widgets/CallToAction.php:91
+#: widgets/Counter.php:93 widgets/CourseList.php:122 widgets/CourseTab.php:141
+#: widgets/FeaturedList.php:94 widgets/Heading.php:96 widgets/Hero.php:99
+#: widgets/Iconbox.php:95 widgets/Instructor.php:83 widgets/PostList.php:482
+#: widgets/PricingTable.php:96 widgets/Team.php:83
+#: widgets/TestimonialSlider.php:95 widgets/VideoInfo.php:91
+msgid "Designs"
+msgstr ""
+
+#: widgets/About.php:104 widgets/Accordion.php:92 widgets/Banner.php:101
+#: widgets/Brand.php:101 widgets/CF7.php:114 widgets/CallToAction.php:94
+#: widgets/Counter.php:96 widgets/CourseList.php:125 widgets/CourseTab.php:144
+#: widgets/EventList.php:98 widgets/FeaturedList.php:97 widgets/Heading.php:99
+#: widgets/Hero.php:102 widgets/Iconbox.php:98 widgets/Instructor.php:86
+#: widgets/PostList.php:485 widgets/PricingTable.php:99 widgets/Team.php:86
+#: widgets/TestimonialSlider.php:98 widgets/VideoInfo.php:94
+msgid "Design 1"
+msgstr ""
+
+#: widgets/About.php:105 widgets/Accordion.php:93 widgets/Banner.php:102
+#: widgets/Brand.php:102 widgets/CallToAction.php:95 widgets/Counter.php:97
+#: widgets/CourseList.php:126 widgets/CourseTab.php:145
+#: widgets/EventList.php:99 widgets/FeaturedList.php:98 widgets/Heading.php:100
+#: widgets/Hero.php:103 widgets/Iconbox.php:99 widgets/PricingTable.php:100
+#: widgets/Team.php:87 widgets/TestimonialSlider.php:99
+msgid "Design 2"
+msgstr ""
+
+#: widgets/About.php:106 widgets/Accordion.php:94 widgets/Banner.php:103
+#: widgets/Brand.php:103 widgets/CallToAction.php:96 widgets/Counter.php:98
+#: widgets/CourseList.php:127 widgets/FeaturedList.php:99 widgets/Hero.php:104
+#: widgets/Iconbox.php:100 widgets/PricingTable.php:101 widgets/Team.php:88
+#: widgets/TestimonialSlider.php:100
+msgid "Design 3"
+msgstr ""
+
+#: widgets/About.php:107 widgets/Banner.php:104 widgets/CourseList.php:128
+#: widgets/Iconbox.php:101
+msgid "Design 4"
+msgstr ""
+
+#: widgets/About.php:108 widgets/Banner.php:105 widgets/Iconbox.php:102
+msgid "Design 5"
+msgstr ""
+
+#: widgets/About.php:109 widgets/Banner.php:106 widgets/Iconbox.php:103
+msgid "Design 6"
+msgstr ""
+
+#: widgets/About.php:110
+msgid "Design 7"
+msgstr ""
+
+#: widgets/About.php:127 widgets/AdvancedPrice.php:83 widgets/Banner.php:204
+#: widgets/Brand.php:121 widgets/CF7.php:148 widgets/CF7.php:378
+#: widgets/Counter.php:115 widgets/CourseList.php:520 widgets/CourseTab.php:174
+#: widgets/EventList.php:113 widgets/Heading.php:118 widgets/Hero.php:156
+#: widgets/Instructor.php:112 widgets/Skill.php:162 widgets/Skill.php:406
+#: widgets/StickyVideo.php:290 widgets/StickyVideo.php:660 widgets/Team.php:114
+#: widgets/TestimonialSlider.php:132 widgets/VideoInfo.php:150
+#: widgets/VideoInfo.php:335
+msgid "Title & Description"
+msgstr ""
+
+#: widgets/About.php:135 widgets/AdvancedSlider.php:183
+#: widgets/TestimonialSlider.php:111 widgets/VideoInfo.php:279
+msgid "Shape SWITCHER"
+msgstr ""
+
+#: widgets/About.php:137 widgets/AdvancedSlider.php:185 widgets/Banner.php:119
+#: widgets/CourseList.php:141 widgets/CourseList.php:297
+#: widgets/CourseList.php:309 widgets/CourseList.php:321
+#: widgets/CourseList.php:346 widgets/CourseList.php:358
+#: widgets/CourseList.php:370 widgets/CourseList.php:382
+#: widgets/CourseTab.php:158 widgets/CourseTab.php:199
+#: widgets/CourseTab.php:483 widgets/CourseTab.php:495
+#: widgets/CourseTab.php:539 widgets/CourseTab.php:565
+#: widgets/CourseTab.php:593 widgets/CourseTab.php:605
+#: widgets/CourseTab.php:617 widgets/Hero.php:117 widgets/Hero.php:133
+#: widgets/Instructor.php:99 widgets/Instructor.php:125
+#: widgets/PostList.php:194 widgets/PostList.php:220 widgets/PostList.php:253
+#: widgets/PostList.php:284 widgets/PostList.php:299 widgets/PostList.php:332
+#: widgets/PostList.php:365 widgets/PricingTable.php:114
+#: widgets/PricingTable.php:251 widgets/PricingTable.php:253
+#: widgets/PricingTable.php:387 widgets/PricingTable.php:389
+#: widgets/Team.php:101 widgets/Team.php:127 widgets/TestimonialSlider.php:113
+#: widgets/VideoInfo.php:281
+msgid "Show"
+msgstr ""
+
+#: widgets/About.php:138 widgets/AdvancedSlider.php:186 widgets/Banner.php:120
+#: widgets/CourseList.php:142 widgets/CourseList.php:298
+#: widgets/CourseList.php:310 widgets/CourseList.php:322
+#: widgets/CourseList.php:347 widgets/CourseList.php:359
+#: widgets/CourseList.php:371 widgets/CourseList.php:383
+#: widgets/CourseTab.php:159 widgets/CourseTab.php:200
+#: widgets/CourseTab.php:484 widgets/CourseTab.php:496
+#: widgets/CourseTab.php:540 widgets/CourseTab.php:566
+#: widgets/CourseTab.php:594 widgets/CourseTab.php:606
+#: widgets/CourseTab.php:618 widgets/Hero.php:118 widgets/Hero.php:134
+#: widgets/Instructor.php:100 widgets/Instructor.php:126
+#: widgets/PostList.php:195 widgets/PostList.php:221 widgets/PostList.php:254
+#: widgets/PostList.php:285 widgets/PostList.php:300 widgets/PostList.php:333
+#: widgets/PostList.php:366 widgets/PricingTable.php:115
+#: widgets/PricingTable.php:254 widgets/PricingTable.php:390
+#: widgets/Team.php:102 widgets/Team.php:128 widgets/TestimonialSlider.php:114
+#: widgets/VideoInfo.php:282
+msgid "Hide"
+msgstr ""
+
+#: widgets/About.php:148 widgets/AdvancedPrice.php:91
+#: widgets/AdvancedSlider.php:213 widgets/Banner.php:215 widgets/Banner.php:218
+#: widgets/CF7.php:156 widgets/CallToAction.php:121 widgets/CourseTab.php:751
+#: widgets/EventList.php:124 widgets/FeaturedList.php:125
+#: widgets/Heading.php:141 widgets/Hero.php:164 widgets/Hero.php:167
+#: widgets/Instructor.php:156 widgets/Skill.php:170 widgets/Team.php:158
+#: widgets/TestimonialSlider.php:143
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/About.php:151 widgets/CF7.php:159 widgets/FeaturedList.php:128
+#: widgets/Skill.php:173 widgets/TestimonialSlider.php:146
+msgid "bdevs Info Box Sub Title"
+msgstr ""
+
+#: widgets/About.php:152 widgets/CF7.php:160 widgets/FeaturedList.php:129
+#: widgets/Skill.php:174 widgets/TestimonialSlider.php:147
+msgid "Type Info Box Sub Title"
+msgstr ""
+
+#: widgets/About.php:165 widgets/About.php:437 widgets/About.php:862
+#: widgets/Accordion.php:207 widgets/AdvancedPrice.php:108
+#: widgets/AdvancedPrice.php:392 widgets/AdvancedPrice.php:585
+#: widgets/AdvancedSlider.php:248 widgets/AdvancedSlider.php:678
+#: widgets/AdvancedSlider.php:812 widgets/Banner.php:232 widgets/Banner.php:639
+#: widgets/Brand.php:132 widgets/Brand.php:478 widgets/CF7.php:173
+#: widgets/CF7.php:310 widgets/CF7.php:311 widgets/CF7.php:410
+#: widgets/CallToAction.php:138 widgets/CallToAction.php:358
+#: widgets/CallToAction.php:516 widgets/Counter.php:391
+#: widgets/CourseList.php:208 widgets/CourseTab.php:182
+#: widgets/CourseTab.php:649 widgets/CourseTab.php:1227
+#: widgets/EventList.php:141 widgets/EventList.php:313
+#: widgets/EventList.php:522 widgets/FeaturedList.php:142
+#: widgets/FeaturedList.php:355 widgets/FeaturedList.php:716
+#: widgets/Heading.php:126 widgets/Heading.php:279 widgets/Hero.php:181
+#: widgets/Hero.php:415 widgets/Hero.php:692 widgets/Iconbox.php:232
+#: widgets/Iconbox.php:800 widgets/Instructor.php:170
+#: widgets/Instructor.php:343 widgets/Instructor.php:787
+#: widgets/Instructor.php:945 widgets/PostList.php:587 widgets/PostList.php:993
+#: widgets/PricingTable.php:373 widgets/Skill.php:184 widgets/Skill.php:338
+#: widgets/Skill.php:438 widgets/StickyVideo.php:242
+#: widgets/StickyVideo.php:298 widgets/StickyVideo.php:681 widgets/Team.php:172
+#: widgets/Team.php:345 widgets/Team.php:761 widgets/Team.php:919
+#: widgets/TestimonialSlider.php:160 widgets/TestimonialSlider.php:628
+#: widgets/VideoInfo.php:158 widgets/VideoInfo.php:356
+msgid "Title"
+msgstr ""
+
+#: widgets/About.php:168 widgets/AdvancedPrice.php:111 widgets/CF7.php:176
+#: widgets/CF7.php:191 widgets/Skill.php:187 widgets/StickyVideo.php:301
+#: widgets/TestimonialSlider.php:163 widgets/VideoInfo.php:161
+msgid "bdevs Info Box Title"
+msgstr ""
+
+#: widgets/About.php:169 widgets/AdvancedPrice.php:112 widgets/CF7.php:177
+#: widgets/CF7.php:192 widgets/Skill.php:188 widgets/StickyVideo.php:302
+#: widgets/TestimonialSlider.php:164 widgets/VideoInfo.php:162
+msgid "Type Info Box Title"
+msgstr ""
+
+#: widgets/About.php:179 widgets/About.php:467 widgets/About.php:961
+#: widgets/Accordion.php:258 widgets/AdvancedPrice.php:122
+#: widgets/AdvancedPrice.php:667 widgets/AdvancedSlider.php:279
+#: widgets/AdvancedSlider.php:894 widgets/Banner.php:263 widgets/Banner.php:721
+#: widgets/Brand.php:146 widgets/Brand.php:560 widgets/CF7.php:202
+#: widgets/CallToAction.php:169 widgets/CallToAction.php:598
+#: widgets/Counter.php:408 widgets/Counter.php:666 widgets/CourseList.php:578
+#: widgets/EventList.php:156 widgets/FeaturedList.php:387
+#: widgets/FeaturedList.php:798 widgets/Heading.php:158 widgets/Heading.php:378
+#: widgets/Hero.php:195 widgets/Hero.php:774 widgets/Iconbox.php:247
+#: widgets/Iconbox.php:885 widgets/Instructor.php:185
+#: widgets/Instructor.php:869 widgets/Instructor.php:986 widgets/Skill.php:198
+#: widgets/StickyVideo.php:312 widgets/StickyVideo.php:722 widgets/Team.php:187
+#: widgets/Team.php:843 widgets/Team.php:960 widgets/TestimonialSlider.php:174
+#: widgets/TestimonialSlider.php:715 widgets/VideoInfo.php:172
+#: widgets/VideoInfo.php:401
+msgid "Description"
+msgstr ""
+
+#: widgets/About.php:181 widgets/CF7.php:205 widgets/Skill.php:201
+#: widgets/StickyVideo.php:314 widgets/TestimonialSlider.php:176
+#: widgets/VideoInfo.php:174
+msgid "bdevs info box description goes here"
+msgstr ""
+
+#: widgets/About.php:182 widgets/CF7.php:206 widgets/Skill.php:202
+#: widgets/StickyVideo.php:315 widgets/TestimonialSlider.php:177
+#: widgets/VideoInfo.php:175
+msgid "Type info box description"
+msgstr ""
+
+#: widgets/About.php:196 widgets/AdvancedPrice.php:136 widgets/Banner.php:280
+#: widgets/Brand.php:174 widgets/CF7.php:220 widgets/CallToAction.php:220
+#: widgets/Counter.php:141 widgets/CourseTab.php:210 widgets/EventList.php:171
+#: widgets/EventList.php:394 widgets/FeaturedList.php:155
+#: widgets/Heading.php:170 widgets/Hero.php:263 widgets/Iconbox.php:297
+#: widgets/Instructor.php:200 widgets/Instructor.php:685
+#: widgets/PostList.php:398 widgets/Skill.php:247 widgets/StickyVideo.php:343
+#: widgets/Team.php:202 widgets/Team.php:659 widgets/TestimonialSlider.php:191
+#: widgets/VideoInfo.php:203
+msgid "Title HTML Tag"
+msgstr ""
+
+#: widgets/About.php:200 widgets/AdvancedPrice.php:140 widgets/Banner.php:284
+#: widgets/Brand.php:178 widgets/CF7.php:224 widgets/CallToAction.php:224
+#: widgets/Counter.php:145 widgets/CourseTab.php:214 widgets/EventList.php:175
+#: widgets/EventList.php:398 widgets/FeaturedList.php:159
+#: widgets/Heading.php:174 widgets/Hero.php:267 widgets/Iconbox.php:302
+#: widgets/Instructor.php:204 widgets/Instructor.php:689
+#: widgets/PostList.php:402 widgets/Skill.php:251 widgets/StickyVideo.php:347
+#: widgets/Team.php:206 widgets/Team.php:663 widgets/TestimonialSlider.php:195
+#: widgets/VideoInfo.php:207
+msgid "H1"
+msgstr ""
+
+#: widgets/About.php:204 widgets/AdvancedPrice.php:144 widgets/Banner.php:288
+#: widgets/Brand.php:182 widgets/CF7.php:228 widgets/CallToAction.php:228
+#: widgets/Counter.php:149 widgets/CourseTab.php:218 widgets/EventList.php:179
+#: widgets/EventList.php:402 widgets/FeaturedList.php:163
+#: widgets/Heading.php:178 widgets/Hero.php:271 widgets/Iconbox.php:306
+#: widgets/Instructor.php:208 widgets/Instructor.php:693
+#: widgets/PostList.php:406 widgets/Skill.php:255 widgets/StickyVideo.php:351
+#: widgets/Team.php:210 widgets/Team.php:667 widgets/TestimonialSlider.php:199
+#: widgets/VideoInfo.php:211
+msgid "H2"
+msgstr ""
+
+#: widgets/About.php:208 widgets/AdvancedPrice.php:148 widgets/Banner.php:292
+#: widgets/Brand.php:186 widgets/CF7.php:232 widgets/CallToAction.php:232
+#: widgets/Counter.php:153 widgets/CourseTab.php:222 widgets/EventList.php:183
+#: widgets/EventList.php:406 widgets/FeaturedList.php:167
+#: widgets/Heading.php:182 widgets/Hero.php:275 widgets/Iconbox.php:310
+#: widgets/Instructor.php:212 widgets/Instructor.php:697
+#: widgets/PostList.php:410 widgets/Skill.php:259 widgets/StickyVideo.php:355
+#: widgets/Team.php:214 widgets/Team.php:671 widgets/TestimonialSlider.php:203
+#: widgets/VideoInfo.php:215
+msgid "H3"
+msgstr ""
+
+#: widgets/About.php:212 widgets/AdvancedPrice.php:152 widgets/Banner.php:296
+#: widgets/Brand.php:190 widgets/CF7.php:236 widgets/CallToAction.php:236
+#: widgets/Counter.php:157 widgets/CourseTab.php:226 widgets/EventList.php:187
+#: widgets/EventList.php:410 widgets/FeaturedList.php:171
+#: widgets/Heading.php:186 widgets/Hero.php:279 widgets/Iconbox.php:314
+#: widgets/Instructor.php:216 widgets/Instructor.php:701
+#: widgets/PostList.php:414 widgets/Skill.php:263 widgets/StickyVideo.php:359
+#: widgets/Team.php:218 widgets/Team.php:675 widgets/TestimonialSlider.php:207
+#: widgets/VideoInfo.php:219
+msgid "H4"
+msgstr ""
+
+#: widgets/About.php:216 widgets/AdvancedPrice.php:156 widgets/Banner.php:300
+#: widgets/Brand.php:194 widgets/CF7.php:240 widgets/CallToAction.php:240
+#: widgets/Counter.php:161 widgets/CourseTab.php:230 widgets/EventList.php:191
+#: widgets/EventList.php:414 widgets/FeaturedList.php:175
+#: widgets/Heading.php:190 widgets/Hero.php:283 widgets/Iconbox.php:318
+#: widgets/Instructor.php:220 widgets/Instructor.php:705
+#: widgets/PostList.php:418 widgets/Skill.php:267 widgets/StickyVideo.php:363
+#: widgets/Team.php:222 widgets/Team.php:679 widgets/TestimonialSlider.php:211
+#: widgets/VideoInfo.php:223
+msgid "H5"
+msgstr ""
+
+#: widgets/About.php:220 widgets/AdvancedPrice.php:160 widgets/Banner.php:304
+#: widgets/Brand.php:198 widgets/CF7.php:244 widgets/CallToAction.php:244
+#: widgets/Counter.php:165 widgets/CourseTab.php:234 widgets/EventList.php:195
+#: widgets/EventList.php:418 widgets/FeaturedList.php:179
+#: widgets/Heading.php:194 widgets/Hero.php:287 widgets/Iconbox.php:322
+#: widgets/Instructor.php:224 widgets/Instructor.php:709
+#: widgets/PostList.php:422 widgets/Skill.php:271 widgets/StickyVideo.php:367
+#: widgets/Team.php:226 widgets/Team.php:683 widgets/TestimonialSlider.php:215
+#: widgets/VideoInfo.php:227
+msgid "H6"
+msgstr ""
+
+#: widgets/About.php:232 widgets/AdvancedPrice.php:172
+#: widgets/AdvancedSlider.php:1290 widgets/Banner.php:316 widgets/Brand.php:210
+#: widgets/CF7.php:256 widgets/CallToAction.php:256
+#: widgets/CallToAction.php:405 widgets/Counter.php:177
+#: widgets/CourseTab.php:246 widgets/EventList.php:207
+#: widgets/FeaturedList.php:191 widgets/FeaturedList.php:544
+#: widgets/Heading.php:206 widgets/Hero.php:299 widgets/Hero.php:467
+#: widgets/Iconbox.php:335 widgets/Iconbox.php:425 widgets/Instructor.php:236
+#: widgets/Instructor.php:721 widgets/PostList.php:434
+#: widgets/PricingTable.php:612 widgets/Skill.php:283 widgets/Skill.php:725
+#: widgets/StickyVideo.php:379 widgets/Team.php:238 widgets/Team.php:695
+#: widgets/TestimonialSlider.php:227 widgets/VideoInfo.php:239
+msgid "Alignment"
+msgstr ""
+
+#: widgets/About.php:236 widgets/AdvancedPrice.php:176
+#: widgets/AdvancedPrice.php:481 widgets/AdvancedPrice.php:506
+#: widgets/AdvancedSlider.php:1295 widgets/Banner.php:320 widgets/Brand.php:214
+#: widgets/CF7.php:260 widgets/CallToAction.php:260
+#: widgets/CallToAction.php:409 widgets/Counter.php:181
+#: widgets/CourseTab.php:250 widgets/EventList.php:211
+#: widgets/FeaturedList.php:195 widgets/FeaturedList.php:548
+#: widgets/Heading.php:210 widgets/Hero.php:303 widgets/Hero.php:471
+#: widgets/Iconbox.php:339 widgets/Iconbox.php:429 widgets/Instructor.php:240
+#: widgets/Instructor.php:725 widgets/PostList.php:438
+#: widgets/PricingTable.php:616 widgets/Skill.php:287 widgets/Skill.php:730
+#: widgets/StickyVideo.php:383 widgets/Team.php:242 widgets/Team.php:699
+#: widgets/TestimonialSlider.php:231 widgets/VideoInfo.php:243
+msgid "Left"
+msgstr ""
+
+#: widgets/About.php:240 widgets/AdvancedPrice.php:180
+#: widgets/AdvancedPrice.php:510 widgets/AdvancedSlider.php:1299
+#: widgets/Banner.php:324 widgets/Brand.php:218 widgets/CF7.php:264
+#: widgets/CallToAction.php:264 widgets/CallToAction.php:413
+#: widgets/Counter.php:185 widgets/CourseTab.php:254 widgets/EventList.php:215
+#: widgets/FeaturedList.php:199 widgets/FeaturedList.php:552
+#: widgets/Heading.php:214 widgets/Hero.php:307 widgets/Hero.php:475
+#: widgets/Iconbox.php:343 widgets/Iconbox.php:433 widgets/Instructor.php:244
+#: widgets/Instructor.php:729 widgets/PostList.php:442
+#: widgets/PricingTable.php:620 widgets/Skill.php:291 widgets/Skill.php:734
+#: widgets/StickyVideo.php:387 widgets/Team.php:246 widgets/Team.php:703
+#: widgets/TestimonialSlider.php:235 widgets/VideoInfo.php:247
+msgid "Center"
+msgstr ""
+
+#: widgets/About.php:244 widgets/AdvancedPrice.php:184
+#: widgets/AdvancedPrice.php:489 widgets/AdvancedPrice.php:514
+#: widgets/AdvancedSlider.php:1303 widgets/Banner.php:328 widgets/Brand.php:222
+#: widgets/CF7.php:268 widgets/CallToAction.php:268
+#: widgets/CallToAction.php:417 widgets/Counter.php:189
+#: widgets/CourseTab.php:258 widgets/EventList.php:219
+#: widgets/FeaturedList.php:203 widgets/FeaturedList.php:556
+#: widgets/Heading.php:218 widgets/Hero.php:311 widgets/Hero.php:479
+#: widgets/Iconbox.php:347 widgets/Iconbox.php:437 widgets/Instructor.php:248
+#: widgets/Instructor.php:733 widgets/PostList.php:446
+#: widgets/PricingTable.php:624 widgets/Skill.php:295 widgets/Skill.php:738
+#: widgets/StickyVideo.php:391 widgets/Team.php:250 widgets/Team.php:707
+#: widgets/TestimonialSlider.php:239 widgets/VideoInfo.php:251
+msgid "Right"
+msgstr ""
+
+#: widgets/About.php:265 widgets/About.php:274 widgets/AboutTab.php:123
+#: widgets/AboutTab.php:228 widgets/AdvancedPrice.php:339
+#: widgets/AdvancedSlider.php:197 widgets/Banner.php:346 widgets/Banner.php:374
+#: widgets/Banner.php:404 widgets/Brand.php:253 widgets/Brand.php:339
+#: widgets/CallToAction.php:287 widgets/CallToAction.php:311
+#: widgets/Counter.php:209 widgets/Counter.php:287 widgets/Counter.php:303
+#: widgets/CourseTab.php:1183 widgets/FeaturedList.php:275
+#: widgets/FeaturedList.php:288 widgets/Hero.php:330 widgets/Iconbox.php:139
+#: widgets/Iconbox.php:152 widgets/Instructor.php:328
+#: widgets/PricingTable.php:149 widgets/PricingTable.php:162
+#: widgets/Skill.php:92 widgets/Skill.php:233 widgets/StickyVideo.php:108
+#: widgets/StickyVideo.php:162 widgets/StickyVideo.php:175
+#: widgets/StickyVideo.php:227 widgets/Team.php:330
+#: widgets/TestimonialSlider.php:260 widgets/TestimonialSlider.php:273
+#: widgets/VideoInfo.php:111 widgets/VideoInfo.php:119
+msgid "Image"
+msgstr ""
+
+#: widgets/About.php:291
+msgid "Image Buttom"
+msgstr ""
+
+#: widgets/About.php:308
+msgid "Image 1st"
+msgstr ""
+
+#: widgets/About.php:325
+msgid "Image 2nd"
+msgstr ""
+
+#: widgets/About.php:342
+msgid "Image 3rd"
+msgstr ""
+
+#: widgets/About.php:359
+msgid "Image 4th"
+msgstr ""
+
+#: widgets/About.php:376
+msgid "Image 5th"
+msgstr ""
+
+#: widgets/About.php:408 widgets/AdvancedSlider.php:637 widgets/Hero.php:400
+msgid "Features List"
+msgstr ""
+
+#: widgets/About.php:421 widgets/AboutTab.php:182
+#: widgets/AdvancedSlider.php:153 widgets/Counter.php:261
+#: widgets/FeaturedList.php:233 widgets/TestimonialSlider.php:300
+msgid "Field condition"
+msgstr ""
+
+#: widgets/About.php:424 widgets/AboutTab.php:186
+#: widgets/AdvancedSlider.php:136 widgets/AdvancedSlider.php:157
+#: widgets/Counter.php:265 widgets/FeaturedList.php:237
+#: widgets/TestimonialSlider.php:304
+msgid "Style 2"
+msgstr ""
+
+#: widgets/About.php:438 widgets/AboutTab.php:265 widgets/Accordion.php:122
+#: widgets/AdvancedSlider.php:250 widgets/AdvancedSlider.php:264
+#: widgets/AdvancedSlider.php:679 widgets/CF7.php:312
+#: widgets/CallToAction.php:359 widgets/Counter.php:365 widgets/Counter.php:392
+#: widgets/Hero.php:416 widgets/Instructor.php:345 widgets/Skill.php:325
+#: widgets/Skill.php:339 widgets/StickyVideo.php:243 widgets/Team.php:347
+msgid "Type title here"
+msgstr ""
+
+#: widgets/About.php:450 widgets/Brand.php:285 widgets/FeaturedList.php:369
+msgid "URL"
+msgstr ""
+
+#: widgets/About.php:451 widgets/AdvancedSlider.php:424
+#: widgets/AdvancedSlider.php:438 widgets/AdvancedSlider.php:452
+#: widgets/AdvancedSlider.php:466 widgets/Brand.php:286
+#: widgets/FeaturedList.php:372 widgets/Iconbox.php:267
+#: widgets/Instructor.php:374 widgets/Instructor.php:475
+#: widgets/Instructor.php:489 widgets/Instructor.php:503
+#: widgets/Instructor.php:517 widgets/Team.php:376 widgets/Team.php:449
+#: widgets/Team.php:463 widgets/Team.php:477 widgets/Team.php:491
+msgid "#"
+msgstr ""
+
+#: widgets/About.php:452 widgets/Brand.php:287
+msgid "Type url here"
+msgstr ""
+
+#: widgets/About.php:468
+msgid "Type Description here"
+msgstr ""
+
+#: widgets/About.php:510
+msgid "Video"
+msgstr ""
+
+#: widgets/About.php:521 widgets/Banner.php:542
+msgid "Video Text"
+msgstr ""
+
+#: widgets/About.php:524 widgets/Banner.php:545
+msgid "Watch Video"
+msgstr ""
+
+#: widgets/About.php:525 widgets/Banner.php:546
+msgid "Enter video Title"
+msgstr ""
+
+#: widgets/About.php:535 widgets/AdvancedSlider.php:327
+#: widgets/StickyVideo.php:329 widgets/VideoInfo.php:189
+msgid "Video URL"
+msgstr ""
+
+#: widgets/About.php:537
+msgid "video url goes here"
+msgstr ""
+
+#: widgets/About.php:538 widgets/AdvancedSlider.php:330
+#: widgets/StickyVideo.php:332 widgets/VideoInfo.php:192
+msgid "Set Video URL"
+msgstr ""
+
+#: widgets/About.php:555
+msgid "About Author"
+msgstr ""
+
+#: widgets/About.php:567
+msgid "Author Image"
+msgstr ""
+
+#: widgets/About.php:580 widgets/About.php:582 widgets/About.php:583
+msgid "Author Title"
+msgstr ""
+
+#: widgets/About.php:594 widgets/About.php:596 widgets/About.php:597
+msgid "Author URL"
+msgstr ""
+
+#: widgets/About.php:608 widgets/About.php:610 widgets/About.php:611
+msgid "Author Designation"
+msgstr ""
+
+#: widgets/About.php:628
+msgid "About Since"
+msgstr ""
+
+#: widgets/About.php:639 widgets/About.php:641 widgets/About.php:642
+msgid "Since Title"
+msgstr ""
+
+#: widgets/About.php:653 widgets/About.php:655 widgets/About.php:656
+msgid "Since Year"
+msgstr ""
+
+#: widgets/About.php:667 widgets/About.php:669 widgets/About.php:670
+msgid "Since Location"
+msgstr ""
+
+#: widgets/About.php:687
+msgid "About Batch"
+msgstr ""
+
+#: widgets/About.php:698 widgets/About.php:700 widgets/About.php:701
+msgid "Batch Title"
+msgstr ""
+
+#: widgets/About.php:719 widgets/About.php:1009 widgets/AdvancedSlider.php:937
+#: widgets/Banner.php:445 widgets/Banner.php:764 widgets/CallToAction.php:397
+#: widgets/CallToAction.php:727 widgets/Counter.php:446
+#: widgets/CourseList.php:414 widgets/CourseList.php:610
+#: widgets/CourseList.php:757 widgets/CourseTab.php:355
+#: widgets/EventList.php:235 widgets/EventList.php:673
+#: widgets/FeaturedList.php:576 widgets/FeaturedList.php:843
+#: widgets/Hero.php:456 widgets/Hero.php:903 widgets/Iconbox.php:371
+#: widgets/Iconbox.php:929 widgets/Instructor.php:265
+#: widgets/Instructor.php:1028 widgets/PostList.php:985
+#: widgets/PricingTable.php:947 widgets/Team.php:267 widgets/Team.php:1002
+msgid "Button"
+msgstr ""
+
+#: widgets/About.php:730 widgets/AdvancedSlider.php:295 widgets/Banner.php:456
+#: widgets/Banner.php:500 widgets/CallToAction.php:431 widgets/Counter.php:457
+#: widgets/CourseList.php:425 widgets/CourseTab.php:366
+#: widgets/EventList.php:246 widgets/FeaturedList.php:403
+#: widgets/FeaturedList.php:587 widgets/Hero.php:493 widgets/Iconbox.php:382
+#: widgets/Instructor.php:276 widgets/PricingTable.php:402 widgets/Team.php:278
+msgid "Text"
+msgstr ""
+
+#: widgets/About.php:732 widgets/Counter.php:459 widgets/CourseList.php:392
+#: widgets/CourseList.php:395 widgets/CourseList.php:396
+#: widgets/CourseList.php:427 widgets/CourseTab.php:368
+#: widgets/CourseTab.php:507 widgets/FeaturedList.php:589
+#: widgets/Instructor.php:278 widgets/PricingTable.php:488 widgets/Team.php:280
+msgid "Button Text"
+msgstr ""
+
+#: widgets/About.php:733 widgets/AdvancedSlider.php:298 widgets/Banner.php:459
+#: widgets/CallToAction.php:434 widgets/Counter.php:460
+#: widgets/CourseList.php:428 widgets/CourseTab.php:369
+#: widgets/EventList.php:249 widgets/FeaturedList.php:406
+#: widgets/FeaturedList.php:590 widgets/Hero.php:496 widgets/Hero.php:551
+#: widgets/Iconbox.php:385 widgets/Instructor.php:279
+#: widgets/PricingTable.php:491 widgets/Team.php:281
+msgid "Type button text here"
+msgstr ""
+
+#: widgets/About.php:744 widgets/AdvancedSlider.php:312 widgets/Banner.php:470
+#: widgets/Banner.php:514 widgets/CallToAction.php:445 widgets/Counter.php:471
+#: widgets/CourseList.php:439 widgets/CourseTab.php:380
+#: widgets/FeaturedList.php:420 widgets/FeaturedList.php:601
+#: widgets/Hero.php:507 widgets/Iconbox.php:396 widgets/Instructor.php:290
+#: widgets/PricingTable.php:502 widgets/Team.php:292
+msgid "Link"
+msgstr ""
+
+#: widgets/About.php:746 widgets/Counter.php:473 widgets/CourseList.php:441
+#: widgets/CourseTab.php:382 widgets/FeaturedList.php:603
+#: widgets/Instructor.php:292 widgets/Team.php:294
+msgid "http://elementor.bdevs.net/"
+msgstr ""
+
+#: widgets/About.php:756 widgets/AboutTab.php:197 widgets/CF7.php:298
+#: widgets/CallToAction.php:457 widgets/Counter.php:283 widgets/Counter.php:346
+#: widgets/Counter.php:483 widgets/CourseList.php:451 widgets/CourseTab.php:392
+#: widgets/FeaturedList.php:271 widgets/FeaturedList.php:325
+#: widgets/FeaturedList.php:435 widgets/FeaturedList.php:613
+#: widgets/Hero.php:519 widgets/Hero.php:573 widgets/Iconbox.php:135
+#: widgets/Iconbox.php:189 widgets/PostList.php:233
+#: widgets/PricingTable.php:145 widgets/PricingTable.php:199
+#: widgets/PricingTable.php:413 widgets/PricingTable.php:427
+#: widgets/Skill.php:229 widgets/StickyVideo.php:158
+msgid "Icon"
+msgstr ""
+
+#: widgets/About.php:775 widgets/Counter.php:503 widgets/CourseList.php:470
+#: widgets/CourseTab.php:411 widgets/FeaturedList.php:460
+#: widgets/FeaturedList.php:632 widgets/Iconbox.php:474
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/About.php:780 widgets/Counter.php:508 widgets/CourseList.php:475
+#: widgets/CourseTab.php:416 widgets/FeaturedList.php:465
+#: widgets/FeaturedList.php:637
+msgid "Before"
+msgstr ""
+
+#: widgets/About.php:784 widgets/Counter.php:512 widgets/CourseList.php:479
+#: widgets/CourseTab.php:420 widgets/FeaturedList.php:469
+#: widgets/FeaturedList.php:641
+msgid "After"
+msgstr ""
+
+#: widgets/About.php:797 widgets/Counter.php:525 widgets/CourseList.php:492
+#: widgets/CourseTab.php:433 widgets/FeaturedList.php:485
+#: widgets/FeaturedList.php:654 widgets/Iconbox.php:490
+msgid "Icon Spacing"
+msgstr ""
+
+#: widgets/About.php:829 widgets/AdvancedPrice.php:552
+#: widgets/AdvancedSlider.php:779 widgets/Banner.php:606 widgets/Brand.php:445
+#: widgets/CallToAction.php:483 widgets/Counter.php:551
+#: widgets/FeaturedList.php:683 widgets/Heading.php:246 widgets/Hero.php:659
+#: widgets/Instructor.php:754 widgets/Team.php:728
+#: widgets/TestimonialSlider.php:595
+msgid "Title / Content"
+msgstr ""
+
+#: widgets/About.php:837 widgets/Accordion.php:182
+#: widgets/AdvancedPrice.php:560 widgets/AdvancedSlider.php:787
+#: widgets/Banner.php:614 widgets/Brand.php:453 widgets/CF7.php:386
+#: widgets/CallToAction.php:491 widgets/Counter.php:559
+#: widgets/FeaturedList.php:691 widgets/Heading.php:254 widgets/Hero.php:667
+#: widgets/Instructor.php:762 widgets/Instructor.php:920
+#: widgets/PricingTable.php:546 widgets/Skill.php:414 widgets/Team.php:736
+#: widgets/Team.php:894 widgets/TestimonialSlider.php:603
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/About.php:870 widgets/About.php:917 widgets/About.php:969
+#: widgets/Accordion.php:215 widgets/Accordion.php:266
+#: widgets/AdvancedPrice.php:593 widgets/AdvancedPrice.php:634
+#: widgets/AdvancedPrice.php:675 widgets/AdvancedSlider.php:820
+#: widgets/AdvancedSlider.php:861 widgets/AdvancedSlider.php:902
+#: widgets/Banner.php:647 widgets/Banner.php:688 widgets/Banner.php:729
+#: widgets/Brand.php:486 widgets/Brand.php:527 widgets/Brand.php:568
+#: widgets/CF7.php:418 widgets/CF7.php:458 widgets/CallToAction.php:524
+#: widgets/CallToAction.php:565 widgets/CallToAction.php:606
+#: widgets/CallToAction.php:648 widgets/CallToAction.php:690
+#: widgets/Counter.php:592 widgets/Counter.php:633 widgets/Counter.php:674
+#: widgets/FeaturedList.php:724 widgets/FeaturedList.php:765
+#: widgets/FeaturedList.php:806 widgets/Heading.php:287 widgets/Heading.php:331
+#: widgets/Heading.php:386 widgets/Hero.php:700 widgets/Hero.php:741
+#: widgets/Hero.php:782 widgets/Hero.php:824 widgets/Hero.php:866
+#: widgets/Iconbox.php:607 widgets/Iconbox.php:824 widgets/Iconbox.php:911
+#: widgets/Instructor.php:795 widgets/Instructor.php:836
+#: widgets/Instructor.php:877 widgets/Instructor.php:953
+#: widgets/Instructor.php:994 widgets/PricingTable.php:657
+#: widgets/PricingTable.php:745 widgets/PricingTable.php:825
+#: widgets/PricingTable.php:877 widgets/Skill.php:446 widgets/Skill.php:486
+#: widgets/StickyVideo.php:548 widgets/StickyVideo.php:689
+#: widgets/StickyVideo.php:730 widgets/Team.php:769 widgets/Team.php:810
+#: widgets/Team.php:851 widgets/Team.php:927 widgets/Team.php:968
+#: widgets/TestimonialSlider.php:636 widgets/TestimonialSlider.php:677
+#: widgets/TestimonialSlider.php:723 widgets/TestimonialSlider.php:770
+#: widgets/VideoInfo.php:364 widgets/VideoInfo.php:409
+msgid "Bottom Spacing"
+msgstr ""
+
+#: widgets/About.php:882 widgets/About.php:933 widgets/About.php:981
+#: widgets/About.php:1085 widgets/About.php:1117 widgets/AboutTab.php:480
+#: widgets/AboutTab.php:669 widgets/AboutTab.php:701 widgets/Accordion.php:227
+#: widgets/Accordion.php:278 widgets/AdvancedPrice.php:605
+#: widgets/AdvancedPrice.php:646 widgets/AdvancedPrice.php:687
+#: widgets/AdvancedSlider.php:832 widgets/AdvancedSlider.php:873
+#: widgets/AdvancedSlider.php:914 widgets/AdvancedSlider.php:1010
+#: widgets/AdvancedSlider.php:1042 widgets/AdvancedSlider.php:1179
+#: widgets/AdvancedSlider.php:1211 widgets/Banner.php:659
+#: widgets/Banner.php:700 widgets/Banner.php:741 widgets/Banner.php:840
+#: widgets/Banner.php:872 widgets/Brand.php:498 widgets/Brand.php:539
+#: widgets/Brand.php:580 widgets/CF7.php:430 widgets/CF7.php:470
+#: widgets/CallToAction.php:536 widgets/CallToAction.php:577
+#: widgets/CallToAction.php:618 widgets/CallToAction.php:660
+#: widgets/CallToAction.php:702 widgets/CallToAction.php:800
+#: widgets/CallToAction.php:832 widgets/Counter.php:604 widgets/Counter.php:645
+#: widgets/Counter.php:686 widgets/CourseList.php:586
+#: widgets/CourseList.php:683 widgets/CourseList.php:715
+#: widgets/CourseList.php:830 widgets/CourseList.php:862
+#: widgets/CourseTab.php:698 widgets/CourseTab.php:800
+#: widgets/CourseTab.php:864 widgets/EventList.php:746
+#: widgets/EventList.php:778 widgets/FeaturedList.php:736
+#: widgets/FeaturedList.php:777 widgets/FeaturedList.php:818
+#: widgets/FeaturedList.php:920 widgets/FeaturedList.php:952
+#: widgets/Heading.php:299 widgets/Heading.php:346 widgets/Heading.php:398
+#: widgets/Hero.php:712 widgets/Hero.php:753 widgets/Hero.php:794
+#: widgets/Hero.php:836 widgets/Hero.php:878 widgets/Hero.php:976
+#: widgets/Hero.php:1008 widgets/Iconbox.php:845 widgets/Iconbox.php:865
+#: widgets/Iconbox.php:901 widgets/Iconbox.php:1002 widgets/Iconbox.php:1046
+#: widgets/Instructor.php:807 widgets/Instructor.php:848
+#: widgets/Instructor.php:889 widgets/Instructor.php:965
+#: widgets/Instructor.php:1006 widgets/Instructor.php:1101
+#: widgets/Instructor.php:1133 widgets/PostList.php:1068
+#: widgets/PostList.php:1100 widgets/PricingTable.php:757
+#: widgets/PricingTable.php:797 widgets/PricingTable.php:837
+#: widgets/PricingTable.php:889 widgets/PricingTable.php:1019
+#: widgets/PricingTable.php:1064 widgets/PricingTable.php:1137
+#: widgets/Skill.php:458 widgets/Skill.php:498 widgets/Skill.php:614
+#: widgets/Skill.php:646 widgets/StickyVideo.php:701
+#: widgets/StickyVideo.php:742 widgets/Team.php:781 widgets/Team.php:822
+#: widgets/Team.php:863 widgets/Team.php:939 widgets/Team.php:980
+#: widgets/Team.php:1075 widgets/Team.php:1107
+#: widgets/TestimonialSlider.php:648 widgets/TestimonialSlider.php:689
+#: widgets/TestimonialSlider.php:735 widgets/TestimonialSlider.php:782
+#: widgets/VideoInfo.php:376 widgets/VideoInfo.php:421
+msgid "Text Color"
+msgstr ""
+
+#: widgets/About.php:906 widgets/AdvancedPrice.php:125
+#: widgets/AdvancedPrice.php:626 widgets/AdvancedSlider.php:214
+#: widgets/AdvancedSlider.php:232 widgets/AdvancedSlider.php:853
+#: widgets/Banner.php:680 widgets/Brand.php:519 widgets/CF7.php:450
+#: widgets/CallToAction.php:557 widgets/Counter.php:625
+#: widgets/FeaturedList.php:757 widgets/Heading.php:320 widgets/Hero.php:733
+#: widgets/Instructor.php:828 widgets/Skill.php:478 widgets/Team.php:802
+#: widgets/TestimonialSlider.php:669
+msgid "Subtitle"
+msgstr ""
+
+#: widgets/About.php:1020 widgets/AboutTab.php:439 widgets/AboutTab.php:604
+#: widgets/AdvancedSlider.php:945 widgets/Banner.php:775
+#: widgets/CallToAction.php:735 widgets/CourseList.php:618
+#: widgets/CourseList.php:765 widgets/CourseTab.php:669
+#: widgets/CourseTab.php:771 widgets/CourseTab.php:835
+#: widgets/CourseTab.php:926 widgets/CourseTab.php:977
+#: widgets/CourseTab.php:1121 widgets/EventList.php:467
+#: widgets/EventList.php:681 widgets/FeaturedList.php:855 widgets/Hero.php:911
+#: widgets/Iconbox.php:595 widgets/Iconbox.php:937 widgets/Instructor.php:1036
+#: widgets/PostList.php:530 widgets/PostList.php:1003
+#: widgets/PricingTable.php:954 widgets/PricingTable.php:1125
+#: widgets/StickyVideo.php:560 widgets/Team.php:1010
+msgid "Padding"
+msgstr ""
+
+#: widgets/About.php:1048 widgets/AboutTab.php:451 widgets/AboutTab.php:632
+#: widgets/AdvancedSlider.php:973 widgets/AdvancedSlider.php:1158
+#: widgets/Banner.php:803 widgets/CallToAction.php:763
+#: widgets/CourseList.php:646 widgets/CourseList.php:793
+#: widgets/CourseTab.php:1069 widgets/CourseTab.php:1161
+#: widgets/CourseTab.php:1215 widgets/EventList.php:507
+#: widgets/EventList.php:709 widgets/FeaturedList.php:883 widgets/Hero.php:939
+#: widgets/Iconbox.php:632 widgets/Iconbox.php:965 widgets/Instructor.php:1064
+#: widgets/PostList.php:570 widgets/PostList.php:862 widgets/PostList.php:1031
+#: widgets/PricingTable.php:576 widgets/PricingTable.php:974
+#: widgets/PricingTable.php:1167 widgets/Skill.php:392 widgets/Skill.php:593
+#: widgets/StickyVideo.php:580 widgets/Team.php:1038
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/About.php:1078 widgets/AboutTab.php:506 widgets/AboutTab.php:662
+#: widgets/AdvancedPrice.php:214 widgets/AdvancedSlider.php:1003
+#: widgets/AdvancedSlider.php:1172 widgets/AdvancedSlider.php:1318
+#: widgets/Banner.php:833 widgets/CallToAction.php:793
+#: widgets/CourseList.php:538 widgets/CourseList.php:676
+#: widgets/CourseList.php:823 widgets/CourseTab.php:725
+#: widgets/CourseTab.php:990 widgets/CourseTab.php:1261
+#: widgets/CourseTab.php:1319 widgets/EventList.php:540
+#: widgets/EventList.php:739 widgets/FeaturedList.php:913 widgets/Hero.php:969
+#: widgets/Iconbox.php:657 widgets/Iconbox.php:838 widgets/Iconbox.php:995
+#: widgets/Instructor.php:1094 widgets/PostList.php:605
+#: widgets/PostList.php:669 widgets/PostList.php:1061
+#: widgets/PricingTable.php:561 widgets/PricingTable.php:1012
+#: widgets/Skill.php:607 widgets/Skill.php:753 widgets/Team.php:1068
+msgid "Normal"
+msgstr ""
+
+#: widgets/About.php:1097 widgets/About.php:1128 widgets/AboutTab.php:529
+#: widgets/AboutTab.php:568 widgets/AboutTab.php:681 widgets/AboutTab.php:712
+#: widgets/AdvancedSlider.php:1022 widgets/AdvancedSlider.php:1053
+#: widgets/AdvancedSlider.php:1191 widgets/AdvancedSlider.php:1222
+#: widgets/Banner.php:852 widgets/Banner.php:883 widgets/CallToAction.php:812
+#: widgets/CallToAction.php:843 widgets/CourseList.php:695
+#: widgets/CourseList.php:726 widgets/CourseList.php:842
+#: widgets/CourseList.php:873 widgets/EventList.php:758
+#: widgets/EventList.php:789 widgets/FeaturedList.php:932
+#: widgets/FeaturedList.php:963 widgets/Hero.php:988 widgets/Hero.php:1019
+#: widgets/Iconbox.php:741 widgets/Iconbox.php:1014 widgets/Iconbox.php:1057
+#: widgets/Instructor.php:1113 widgets/Instructor.php:1144
+#: widgets/PostList.php:1080 widgets/PostList.php:1111
+#: widgets/PricingTable.php:1030 widgets/PricingTable.php:1075
+#: widgets/PricingTable.php:1148 widgets/Skill.php:213 widgets/Skill.php:626
+#: widgets/Skill.php:657 widgets/StickyVideo.php:618 widgets/Team.php:1087
+#: widgets/Team.php:1118
+msgid "Background Color"
+msgstr ""
+
+#: widgets/About.php:1110 widgets/AboutTab.php:694
+#: widgets/AdvancedPrice.php:256 widgets/AdvancedSlider.php:1035
+#: widgets/AdvancedSlider.php:1204 widgets/AdvancedSlider.php:1338
+#: widgets/Banner.php:865 widgets/CallToAction.php:825
+#: widgets/CourseList.php:557 widgets/CourseList.php:708
+#: widgets/CourseList.php:855 widgets/CourseTab.php:1020
+#: widgets/CourseTab.php:1280 widgets/CourseTab.php:1339
+#: widgets/EventList.php:559 widgets/EventList.php:771
+#: widgets/FeaturedList.php:945 widgets/Hero.php:1001 widgets/Iconbox.php:723
+#: widgets/Iconbox.php:858 widgets/Iconbox.php:1039 widgets/Instructor.php:1126
+#: widgets/PostList.php:624 widgets/PostList.php:699 widgets/PostList.php:1093
+#: widgets/PricingTable.php:589 widgets/PricingTable.php:1057
+#: widgets/Skill.php:639 widgets/Skill.php:773 widgets/Team.php:1100
+msgid "Hover"
+msgstr ""
+
+#: widgets/About.php:1139 widgets/AboutTab.php:723
+#: widgets/AdvancedSlider.php:1064 widgets/AdvancedSlider.php:1233
+#: widgets/Banner.php:894 widgets/CallToAction.php:865
+#: widgets/CourseList.php:737 widgets/CourseList.php:884
+#: widgets/EventList.php:800 widgets/FeaturedList.php:974 widgets/Hero.php:1041
+#: widgets/Iconbox.php:752 widgets/Iconbox.php:1025 widgets/Iconbox.php:1068
+#: widgets/Instructor.php:1155 widgets/PostList.php:1122
+#: widgets/PricingTable.php:597 widgets/PricingTable.php:1041
+#: widgets/PricingTable.php:1086 widgets/Skill.php:668 widgets/Team.php:1129
+msgid "Border Color"
+msgstr ""
+
+#: widgets/AboutTab.php:31
+msgid "About TAB"
+msgstr ""
+
+#: widgets/AboutTab.php:85 widgets/AboutTab.php:92
+#: widgets/AdvancedPrice.php:461 widgets/AdvancedSlider.php:132
+#: widgets/StickyVideo.php:84 widgets/StickyVideo.php:91
+msgid "Design Style"
+msgstr ""
+
+#: widgets/AboutTab.php:95 widgets/AboutTab.php:185
+#: widgets/AdvancedPrice.php:464 widgets/AdvancedSlider.php:135
+#: widgets/AdvancedSlider.php:156 widgets/Counter.php:264
+#: widgets/FeaturedList.php:236 widgets/StickyVideo.php:94
+#: widgets/TestimonialSlider.php:303
+msgid "Style 1"
+msgstr ""
+
+#: widgets/AboutTab.php:112 widgets/Counter.php:221
+msgid "Shape Image"
+msgstr ""
+
+#: widgets/AboutTab.php:137
+msgid "Image two"
+msgstr ""
+
+#: widgets/AboutTab.php:172 widgets/AdvancedSlider.php:124
+#: widgets/TestimonialSlider.php:290
+msgid "Slides"
+msgstr ""
+
+#: widgets/AboutTab.php:246 widgets/AboutTab.php:247
+msgid "Tab Sub Title"
+msgstr ""
+
+#: widgets/AboutTab.php:248 widgets/CF7.php:326
+msgid "Type sub title here"
+msgstr ""
+
+#: widgets/AboutTab.php:263 widgets/AboutTab.php:264 widgets/Accordion.php:120
+#: widgets/Accordion.php:121 widgets/AdvancedPrice.php:393
+msgid "Tab Title"
+msgstr ""
+
+#: widgets/AboutTab.php:280 widgets/AboutTab.php:281 widgets/AboutTab.php:316
+msgid "Tab Content Title"
+msgstr ""
+
+#: widgets/AboutTab.php:282 widgets/AboutTab.php:317 widgets/CF7.php:339
+msgid "Type content here"
+msgstr ""
+
+#: widgets/AboutTab.php:298
+msgid "Tab Content 01"
+msgstr ""
+
+#: widgets/AboutTab.php:299 widgets/AboutTab.php:334 widgets/Accordion.php:135
+msgid "Content Here"
+msgstr ""
+
+#: widgets/AboutTab.php:300 widgets/AboutTab.php:335
+msgid "Type Content here"
+msgstr ""
+
+#: widgets/AboutTab.php:315
+msgid "Tab Content Title 02"
+msgstr ""
+
+#: widgets/AboutTab.php:333
+msgid "Tab Content 02"
+msgstr ""
+
+#: widgets/AboutTab.php:381
+msgid "Form Fields"
+msgstr ""
+
+#: widgets/AboutTab.php:389 widgets/StickyVideo.php:443
+msgid "Width"
+msgstr ""
+
+#: widgets/AboutTab.php:421
+msgid "Spacing Bottom"
+msgstr ""
+
+#: widgets/AboutTab.php:472 widgets/CourseList.php:529
+#: widgets/CourseTab.php:1052 widgets/CourseTab.php:1252
+#: widgets/CourseTab.php:1310 widgets/CourseTab.php:1385
+#: widgets/EventList.php:531 widgets/EventList.php:594 widgets/PostList.php:596
+#: widgets/PostList.php:660 widgets/PostList.php:734 widgets/PostList.php:904
+#: widgets/PricingTable.php:1188 widgets/StickyVideo.php:713
+#: widgets/StickyVideo.php:754 widgets/VideoInfo.php:388
+#: widgets/VideoInfo.php:433
+msgid "Typography"
+msgstr ""
+
+#: widgets/AboutTab.php:491
+msgid "Placeholder Text Color"
+msgstr ""
+
+#: widgets/AboutTab.php:542
+msgid "Focus"
+msgstr ""
+
+#: widgets/AboutTab.php:584
+msgid "Submit Button"
+msgstr ""
+
+#: widgets/AboutTab.php:592 widgets/CourseTab.php:657 widgets/CourseTab.php:759
+#: widgets/CourseTab.php:823 widgets/CourseTab.php:965
+#: widgets/CourseTab.php:1360 widgets/EventList.php:455
+#: widgets/EventList.php:626 widgets/PostList.php:518 widgets/PostList.php:936
+msgid "Margin"
+msgstr ""
+
+#: widgets/Accordion.php:36
+msgid "Accordion"
+msgstr ""
+
+#: widgets/Accordion.php:108
+msgid "Faq List"
+msgstr ""
+
+#: widgets/Accordion.php:136 widgets/AdvancedSlider.php:215
+#: widgets/AdvancedSlider.php:233
+msgid "Type subtitle here"
+msgstr ""
+
+#: widgets/Accordion.php:174
+msgid "Accordion Content"
+msgstr ""
+
+#: widgets/Accordion.php:237
+msgid "Text BG Color"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:36
+msgid "Advanced Price"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:94
+msgid "bdevs Sub Title"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:95
+msgid "Type Sub Title"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:124
+msgid "Subtitle here"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:201 widgets/AdvancedSlider.php:80
+#: widgets/Banner.php:155
+msgid "Background Overlay"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:222 widgets/AdvancedPrice.php:266
+#: widgets/AdvancedSlider.php:92 widgets/Banner.php:167
+#: widgets/CourseTab.php:1009 widgets/CourseTab.php:1040
+#: widgets/CourseTab.php:1134 widgets/EventList.php:480 widgets/Iconbox.php:676
+#: widgets/PostList.php:543
+msgid "Background"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:231 widgets/AdvancedPrice.php:275
+#: widgets/AdvancedSlider.php:101 widgets/Banner.php:176
+msgid "Opacity"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:302
+msgid "Extra"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:310
+msgid "Extra (ON/OFF)"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:312 widgets/AdvancedPrice.php:406
+#: widgets/AdvancedSlider.php:358 widgets/AdvancedSlider.php:725
+#: widgets/AdvancedSlider.php:749 widgets/AdvancedSlider.php:760
+#: widgets/Brand.php:389 widgets/Brand.php:413 widgets/Brand.php:424
+#: widgets/Instructor.php:423 widgets/Team.php:397
+#: widgets/TestimonialSlider.php:536 widgets/TestimonialSlider.php:560
+#: widgets/TestimonialSlider.php:571
+msgid "Yes"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:313 widgets/AdvancedPrice.php:407
+#: widgets/AdvancedSlider.php:359 widgets/AdvancedSlider.php:726
+#: widgets/AdvancedSlider.php:750 widgets/AdvancedSlider.php:761
+#: widgets/Brand.php:390 widgets/Brand.php:414 widgets/Brand.php:425
+#: widgets/Instructor.php:424 widgets/Team.php:398
+#: widgets/TestimonialSlider.php:537 widgets/TestimonialSlider.php:561
+#: widgets/TestimonialSlider.php:572
+msgid "No"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:323
+msgid "Extra Title"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:326
+msgid "bdevs Extra Title"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:327
+msgid "Type Extra Title"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:347
+msgid "image"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:381
+msgid "Price Tabs"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:394
+msgid "Type Tab Title"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:404
+msgid "Is Active Tab?"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:417
+msgid "Section Template"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:418
+msgid "Select a section template for as tab content"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:419
+#, php-format
+msgid ""
+"Wondering what is section template or need to create one? Please click "
+"%1$shere%2$s "
+msgstr ""
+
+#: widgets/AdvancedPrice.php:453 widgets/AdvancedSlider.php:715
+#: widgets/Brand.php:379 widgets/CourseList.php:271 widgets/CourseTab.php:454
+#: widgets/EventList.php:386 widgets/PostList.php:163
+#: widgets/TestimonialSlider.php:526
+msgid "Settings"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:475
+msgid "Filter Position"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:485
+msgid "Top"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:500
+msgid "Filter Align"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:532
+msgid "Tab action"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:535
+msgid "On Click"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:536
+msgid "On Hover"
+msgstr ""
+
+#: widgets/AdvancedPrice.php:801
+msgid "No  List  Found"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:33
+msgid "Advanced Slider"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:137 widgets/AdvancedSlider.php:158
+#: widgets/Counter.php:266 widgets/TestimonialSlider.php:305
+msgid "Style 3"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:138 widgets/AdvancedSlider.php:159
+msgid "Style 4"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:139 widgets/AdvancedSlider.php:160
+msgid "Style 5"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:140 widgets/AdvancedSlider.php:161
+msgid "Style 6"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:176 widgets/Instructor.php:320
+#: widgets/Team.php:322
+msgid "Information"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:231
+msgid "Sub Title 02"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:249
+msgid "Title Here"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:262
+msgid "Title 02"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:263
+msgid "Web Developer"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:280
+msgid "Hero Description"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:281
+msgid "Type Hero Description Here"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:329 widgets/StickyVideo.php:331
+#: widgets/VideoInfo.php:191
+msgid "bdevs video url goes here"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:346 widgets/Instructor.php:414
+#: widgets/Team.php:388
+msgid "Links"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:356 widgets/Instructor.php:421
+#: widgets/Team.php:395
+msgid "Show Options?"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:370
+msgid "Social Title"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:371
+msgid "Follow"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:372
+msgid "Type Social title here"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:384 widgets/Instructor.php:435
+#: widgets/Team.php:409
+msgid "Website Address"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:385 widgets/Instructor.php:436
+#: widgets/Team.php:410
+msgid "Add your profile link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:397 widgets/CallToAction.php:203
+#: widgets/Instructor.php:448 widgets/Team.php:422
+msgid "Email"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:398 widgets/Instructor.php:449
+#: widgets/Team.php:423
+msgid "Add your email link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:410 widgets/Instructor.php:461
+#: widgets/Team.php:435
+msgid "Phone"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:411 widgets/Instructor.php:462
+#: widgets/Team.php:436
+msgid "Add your phone link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:423 widgets/Instructor.php:474
+#: widgets/Team.php:448
+msgid "Facebook"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:425 widgets/Instructor.php:476
+#: widgets/Team.php:450
+msgid "Add your facebook link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:437 widgets/Hero.php:633
+#: widgets/Instructor.php:488 widgets/Team.php:462
+msgid "Twitter"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:439 widgets/Instructor.php:490
+#: widgets/Team.php:464
+msgid "Add your twitter link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:451 widgets/Instructor.php:502
+#: widgets/Team.php:476
+msgid "Instagram"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:453 widgets/Instructor.php:504
+#: widgets/Team.php:478
+msgid "Add your instagram link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:465 widgets/Instructor.php:516
+#: widgets/Team.php:490
+msgid "LinkedIn"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:467 widgets/Instructor.php:518
+#: widgets/Team.php:492
+msgid "Add your linkedin link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:479 widgets/Instructor.php:530
+#: widgets/Team.php:504
+msgid "Youtube"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:480 widgets/Instructor.php:531
+#: widgets/Team.php:505
+msgid "Add your youtube link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:492 widgets/Instructor.php:543
+#: widgets/Team.php:517
+msgid "Google Plus"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:493 widgets/Instructor.php:544
+#: widgets/Team.php:518
+msgid "Add your Google Plus link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:505 widgets/Instructor.php:556
+#: widgets/Team.php:530
+msgid "Flickr"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:506 widgets/Instructor.php:557
+#: widgets/Team.php:531
+msgid "Add your flickr link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:518 widgets/Instructor.php:569
+#: widgets/Team.php:543
+msgid "Vimeo"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:519 widgets/Instructor.php:570
+#: widgets/Team.php:544
+msgid "Add your vimeo link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:531 widgets/Instructor.php:582
+#: widgets/Team.php:556
+msgid "Behance"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:532 widgets/Instructor.php:583
+#: widgets/Team.php:557
+msgid "Add your hehance link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:544 widgets/Instructor.php:595
+#: widgets/Team.php:569
+msgid "Dribbble"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:545 widgets/Instructor.php:596
+#: widgets/Team.php:570
+msgid "Add your dribbble link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:557 widgets/Instructor.php:608
+#: widgets/Team.php:582
+msgid "Pinterest"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:558 widgets/Instructor.php:609
+#: widgets/Team.php:583
+msgid "Add your pinterest link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:570 widgets/Instructor.php:621
+#: widgets/Team.php:595
+msgid "Github"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:571 widgets/Instructor.php:622
+#: widgets/Team.php:596
+msgid "Add your github link"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:652 widgets/Brand.php:160
+#: widgets/CallToAction.php:152 widgets/Counter.php:584 widgets/Iconbox.php:215
+#: widgets/Iconbox.php:218
+msgid "Number"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:653
+msgid "Type Number here"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:665
+msgid "Number Sign"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:666
+msgid "Type Sign here"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:723 widgets/Brand.php:387
+#: widgets/TestimonialSlider.php:534
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:735 widgets/Brand.php:399
+#: widgets/TestimonialSlider.php:546
+msgid "Slider Speed"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:737 widgets/Brand.php:401
+#: widgets/TestimonialSlider.php:548
+msgid "Enter Slider Speed"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:747 widgets/Brand.php:411
+#: widgets/TestimonialSlider.php:558
+msgid "Nav show"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:758 widgets/Brand.php:422
+#: widgets/TestimonialSlider.php:569
+msgid "Dot nav"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:1084 widgets/Skill.php:519
+msgid "Navigation - Arrow"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:1092 widgets/Skill.php:527
+msgid "Position"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:1094 widgets/Iconbox.php:542
+#: widgets/PricingTable.php:296 widgets/Skill.php:529
+#: widgets/StickyVideo.php:491
+msgid "None"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:1095 widgets/Iconbox.php:543
+#: widgets/PricingTable.php:315 widgets/Skill.php:530
+#: widgets/StickyVideo.php:492
+msgid "Custom"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:1105 widgets/Skill.php:540
+msgid "Vertical"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:1126 widgets/Skill.php:561
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:1252 widgets/Skill.php:687
+msgid "Navigation - Dots"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:1260 widgets/Skill.php:695
+msgid "Vertical Position"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:1278 widgets/Skill.php:713
+msgid "Spacing"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:1325 widgets/AdvancedSlider.php:1345
+#: widgets/AdvancedSlider.php:1365 widgets/CourseList.php:545
+#: widgets/CourseList.php:564 widgets/CourseTab.php:997
+#: widgets/CourseTab.php:1027 widgets/CourseTab.php:1268
+#: widgets/CourseTab.php:1287 widgets/CourseTab.php:1326
+#: widgets/CourseTab.php:1346 widgets/CourseTab.php:1396
+#: widgets/EventList.php:547 widgets/EventList.php:566
+#: widgets/EventList.php:602 widgets/EventList.php:647 widgets/Iconbox.php:664
+#: widgets/Iconbox.php:730 widgets/PostList.php:612 widgets/PostList.php:631
+#: widgets/PostList.php:706 widgets/PostList.php:743 widgets/PostList.php:783
+#: widgets/PostList.php:912 widgets/PostList.php:957 widgets/Skill.php:760
+#: widgets/Skill.php:780 widgets/Skill.php:800 widgets/StickyVideo.php:604
+msgid "Color"
+msgstr ""
+
+#: widgets/AdvancedSlider.php:1358 widgets/Skill.php:793
+msgid "Active"
+msgstr ""
+
+#: widgets/Banner.php:34
+msgid "Banner"
+msgstr ""
+
+#: widgets/Banner.php:117 widgets/CourseTab.php:197 widgets/Hero.php:115
+#: widgets/Instructor.php:97 widgets/Team.php:99
+msgid "Shape Show/Hide"
+msgstr ""
+
+#: widgets/Banner.php:133 widgets/Banner.php:136
+msgid "Banner URL"
+msgstr ""
+
+#: widgets/Banner.php:137
+msgid "Banner URL URL"
+msgstr ""
+
+#: widgets/Banner.php:219 widgets/Hero.php:168
+msgid "Enter Sub Title"
+msgstr ""
+
+#: widgets/Banner.php:235 widgets/Brand.php:135 widgets/Hero.php:184
+msgid "Hero Title"
+msgstr ""
+
+#: widgets/Banner.php:236 widgets/Brand.php:136 widgets/Hero.php:185
+msgid "Enter Hero Title"
+msgstr ""
+
+#: widgets/Banner.php:246 widgets/Banner.php:249
+msgid "Title URL"
+msgstr ""
+
+#: widgets/Banner.php:250
+msgid "Enter Title URL"
+msgstr ""
+
+#: widgets/Banner.php:265 widgets/Brand.php:148 widgets/CallToAction.php:171
+#: widgets/Hero.php:197
+msgid "Hero description goes here"
+msgstr ""
+
+#: widgets/Banner.php:266 widgets/Brand.php:149 widgets/CallToAction.php:172
+#: widgets/Hero.php:198
+msgid "Enter Hero description"
+msgstr ""
+
+#: widgets/Banner.php:356 widgets/Hero.php:337
+msgid "Hero BG Image"
+msgstr ""
+
+#: widgets/Banner.php:415
+msgid "Course Bg Image"
+msgstr ""
+
+#: widgets/Banner.php:489
+msgid "Button 2"
+msgstr ""
+
+#: widgets/Banner.php:503
+msgid "Type button 2 text here"
+msgstr ""
+
+#: widgets/Banner.php:531
+msgid "Hero Video"
+msgstr ""
+
+#: widgets/Banner.php:556
+msgid "Hero Video URL"
+msgstr ""
+
+#: widgets/Banner.php:558
+msgid "hero video url goes here"
+msgstr ""
+
+#: widgets/Banner.php:559
+msgid "Set Hero Video URL"
+msgstr ""
+
+#: widgets/Banner.php:581 widgets/Banner.php:591
+msgid "Banner Height"
+msgstr ""
+
+#: widgets/Brand.php:36
+msgid "Brand"
+msgstr ""
+
+#: widgets/Brand.php:163
+msgid "9,500"
+msgstr ""
+
+#: widgets/Brand.php:164
+msgid "Enter number"
+msgstr ""
+
+#: widgets/Brand.php:242 widgets/Brand.php:303
+msgid "Brand Item"
+msgstr ""
+
+#: widgets/Brand.php:267
+msgid "Image 02"
+msgstr ""
+
+#: widgets/Brand.php:349
+msgid "Brand BG Image"
+msgstr ""
+
+#: widgets/CF7.php:36 widgets/CF7.php:128
+msgid "Contact Form"
+msgstr ""
+
+#: widgets/CF7.php:188
+msgid "Info Title"
+msgstr ""
+
+#: widgets/CF7.php:285
+msgid "Contact List"
+msgstr ""
+
+#: widgets/CF7.php:295
+msgid "SVG Icon"
+msgstr ""
+
+#: widgets/CF7.php:324 widgets/CF7.php:325
+msgid "Info Sub Title"
+msgstr ""
+
+#: widgets/CF7.php:536
+msgid "Please Select contact form."
+msgstr ""
+
+#: widgets/CallToAction.php:32
+msgid "CallToAction"
+msgstr ""
+
+#: widgets/CallToAction.php:113 widgets/CourseTab.php:640
+#: widgets/FeaturedList.php:117
+msgid "Title & Desccription"
+msgstr ""
+
+#: widgets/CallToAction.php:125 widgets/EventList.php:128
+#: widgets/Heading.php:145 widgets/Instructor.php:160 widgets/Team.php:162
+msgid "Heading Sub Text"
+msgstr ""
+
+#: widgets/CallToAction.php:142 widgets/CourseTab.php:187
+#: widgets/EventList.php:146 widgets/FeaturedList.php:145
+#: widgets/Heading.php:131 widgets/Instructor.php:175 widgets/Team.php:177
+msgid "Heading Text"
+msgstr ""
+
+#: widgets/CallToAction.php:156
+msgid "Number Here"
+msgstr ""
+
+#: widgets/CallToAction.php:186
+msgid "Placeholder"
+msgstr ""
+
+#: widgets/CallToAction.php:189 widgets/Hero.php:249
+msgid "Search courses...."
+msgstr ""
+
+#: widgets/CallToAction.php:190
+msgid "Enter Placeholder"
+msgstr ""
+
+#: widgets/CallToAction.php:207
+msgid "Email Here"
+msgstr ""
+
+#: widgets/CallToAction.php:294 widgets/FeaturedList.php:338
+#: widgets/StickyVideo.php:116
+msgid "BG Image"
+msgstr ""
+
+#: widgets/CallToAction.php:343
+msgid "Items List"
+msgstr ""
+
+#: widgets/CallToAction.php:640 widgets/CallToAction.php:682
+#: widgets/Hero.php:816 widgets/Hero.php:858
+msgid "Icons Text"
+msgstr ""
+
+#: widgets/CallToAction.php:854 widgets/Hero.php:1030
+msgid "Hover Before BG Color"
+msgstr ""
+
+#: widgets/CallToAction.php:1104
+msgid "Only"
+msgstr ""
+
+#: widgets/Counter.php:33
+msgid "Counter"
+msgstr ""
+
+#: widgets/Counter.php:126
+msgid "Back Title"
+msgstr ""
+
+#: widgets/Counter.php:129
+msgid "bdevs Info Box Back Title"
+msgstr ""
+
+#: widgets/Counter.php:130
+msgid "Type Info Box Back Title"
+msgstr ""
+
+#: widgets/Counter.php:251 widgets/Skill.php:311
+msgid "Fact List"
+msgstr ""
+
+#: widgets/Counter.php:278 widgets/FeaturedList.php:266 widgets/Iconbox.php:130
+#: widgets/PricingTable.php:140 widgets/Skill.php:224
+#: widgets/StickyVideo.php:153
+msgid "Media Type"
+msgstr ""
+
+#: widgets/Counter.php:363
+msgid "Fact Number"
+msgstr ""
+
+#: widgets/Counter.php:364 widgets/Skill.php:324
+msgid "70"
+msgstr ""
+
+#: widgets/Counter.php:377 widgets/Iconbox.php:281
+msgid "SVG"
+msgstr ""
+
+#: widgets/Counter.php:378 widgets/Counter.php:379
+msgid "svg type here"
+msgstr ""
+
+#: widgets/Counter.php:409
+msgid "Type description here"
+msgstr ""
+
+#: widgets/CourseList.php:35 widgets/CourseList.php:157
+msgid "Course List"
+msgstr ""
+
+#: widgets/CourseList.php:139 widgets/CourseTab.php:156
+msgid "Pagination"
+msgstr ""
+
+#: widgets/CourseList.php:165 widgets/CourseTab.php:286
+#: widgets/EventList.php:270 widgets/PostList.php:103
+msgid "Source"
+msgstr ""
+
+#: widgets/CourseList.php:175 widgets/EventList.php:280
+#: widgets/PostList.php:113
+msgid "Show post by:"
+msgstr ""
+
+#: widgets/CourseList.php:179 widgets/EventList.php:284
+#: widgets/PostList.php:117
+msgid "Recent Post"
+msgstr ""
+
+#: widgets/CourseList.php:180 widgets/EventList.php:285
+#: widgets/PostList.php:118
+msgid "Selected Post"
+msgstr ""
+
+#: widgets/CourseList.php:189 widgets/CourseTab.php:339
+#: widgets/EventList.php:294 widgets/PostList.php:146
+msgid "Item Limit"
+msgstr ""
+
+#: widgets/CourseList.php:211 widgets/EventList.php:316
+msgid "Customize Title"
+msgstr ""
+
+#: widgets/CourseList.php:221 widgets/CourseList.php:224
+#: widgets/EventList.php:326 widgets/EventList.php:329
+msgid "Short Content"
+msgstr ""
+
+#: widgets/CourseList.php:235 widgets/CourseTab.php:317
+#: widgets/EventList.php:354
+msgid "Select "
+msgstr ""
+
+#: widgets/CourseList.php:295 widgets/CourseTab.php:537
+#: widgets/PostList.php:192
+msgid "Featured Image"
+msgstr ""
+
+#: widgets/CourseList.php:307
+msgid "Shape Switch"
+msgstr ""
+
+#: widgets/CourseList.php:319
+msgid "Content Switch"
+msgstr ""
+
+#: widgets/CourseList.php:331 widgets/CourseTab.php:575
+#: widgets/PostList.php:266
+msgid "Content Limit"
+msgstr ""
+
+#: widgets/CourseList.php:344 widgets/CourseTab.php:591
+msgid "Author Switch"
+msgstr ""
+
+#: widgets/CourseList.php:356 widgets/CourseTab.php:493
+msgid "Button Switch"
+msgstr ""
+
+#: widgets/CourseList.php:368 widgets/CourseTab.php:603
+msgid "Lession Switch"
+msgstr ""
+
+#: widgets/CourseList.php:380 widgets/CourseTab.php:615
+msgid "Rating Switch"
+msgstr ""
+
+#: widgets/CourseList.php:985 widgets/CourseList.php:1349
+#: widgets/CourseTab.php:1766
+msgid "Level : "
+msgstr ""
+
+#: widgets/CourseList.php:991 widgets/CourseList.php:1100
+#: widgets/CourseList.php:1355 widgets/CourseTab.php:1772
+#: widgets/CourseTab.php:1883
+msgid "View Details "
+msgstr ""
+
+#: widgets/CourseList.php:1054 widgets/CourseList.php:1389
+#: widgets/CourseTab.php:1591 widgets/CourseTab.php:1837
+msgid "Free"
+msgstr ""
+
+#: widgets/CourseList.php:1094 widgets/CourseList.php:1248
+#: widgets/CourseTab.php:1583 widgets/CourseTab.php:1877
+msgid "lessons"
+msgstr ""
+
+#: widgets/CourseList.php:1161 widgets/CourseList.php:1491
+msgid "Page Link"
+msgstr ""
+
+#: widgets/CourseList.php:1169 widgets/CourseList.php:1499
+msgid "Share on social media"
+msgstr ""
+
+#: widgets/CourseList.php:1614 widgets/EventList.php:995
+#: widgets/PostList.php:1357
+msgid "No "
+msgstr ""
+
+#: widgets/CourseList.php:1616 widgets/EventList.php:997
+#: widgets/PostList.php:1359
+msgid "Found"
+msgstr ""
+
+#: widgets/CourseTab.php:36
+msgid "Course Tab"
+msgstr ""
+
+#: widgets/CourseTab.php:278
+msgid "Query"
+msgstr ""
+
+#: widgets/CourseTab.php:302
+msgid "Taxonomies"
+msgstr ""
+
+#: widgets/CourseTab.php:462 widgets/CourseTab.php:1083
+msgid "Column"
+msgstr ""
+
+#: widgets/CourseTab.php:465
+msgid "1 Column"
+msgstr ""
+
+#: widgets/CourseTab.php:466
+msgid "2 Column"
+msgstr ""
+
+#: widgets/CourseTab.php:467
+msgid "3 Column"
+msgstr ""
+
+#: widgets/CourseTab.php:468
+msgid "4 Column"
+msgstr ""
+
+#: widgets/CourseTab.php:469
+msgid "5 Column"
+msgstr ""
+
+#: widgets/CourseTab.php:470
+msgid "6 Column"
+msgstr ""
+
+#: widgets/CourseTab.php:481
+msgid "Show Excerpt"
+msgstr ""
+
+#: widgets/CourseTab.php:508
+msgid "Know Details"
+msgstr ""
+
+#: widgets/CourseTab.php:509 widgets/PostList.php:996
+msgid "Type text here"
+msgstr ""
+
+#: widgets/CourseTab.php:522
+msgid "Read More Icon"
+msgstr ""
+
+#: widgets/CourseTab.php:563 widgets/CourseTab.php:815
+#: widgets/CourseTab.php:1175 widgets/Hero.php:566 widgets/Iconbox.php:207
+#: widgets/PostList.php:251
+msgid "Content"
+msgstr ""
+
+#: widgets/CourseTab.php:690 widgets/CourseTab.php:792
+#: widgets/CourseTab.php:856
+msgid "Text Shadow"
+msgstr ""
+
+#: widgets/CourseTab.php:710
+msgid "Back Text Color"
+msgstr ""
+
+#: widgets/CourseTab.php:722
+msgid "Blend Mode"
+msgstr ""
+
+#: widgets/CourseTab.php:878
+msgid "Tab"
+msgstr ""
+
+#: widgets/CourseTab.php:886
+msgid "Tab Line BG"
+msgstr ""
+
+#: widgets/CourseTab.php:897
+msgid "Tab Box BG"
+msgstr ""
+
+#: widgets/CourseTab.php:908 widgets/CourseTab.php:1106
+#: widgets/CourseTab.php:1191 widgets/CourseTab.php:1236
+msgid "Margin Bottom"
+msgstr ""
+
+#: widgets/CourseTab.php:939 widgets/CourseTab.php:1144
+#: widgets/EventList.php:490 widgets/PostList.php:553
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/CourseTab.php:948 widgets/CourseTab.php:1061
+#: widgets/CourseTab.php:1153 widgets/CourseTab.php:1207
+#: widgets/EventList.php:499 widgets/PostList.php:562 widgets/PostList.php:851
+msgid "Border"
+msgstr ""
+
+#: widgets/CourseTab.php:956
+msgid "Tab Item"
+msgstr ""
+
+#: widgets/CourseTab.php:1091 widgets/EventList.php:614
+#: widgets/EventList.php:659 widgets/PostList.php:924 widgets/PostList.php:969
+msgid "Space Between"
+msgstr ""
+
+#: widgets/CourseTab.php:1300 widgets/EventList.php:582
+#: widgets/PostList.php:892
+msgid "Meta"
+msgstr ""
+
+#: widgets/CourseTab.php:1372
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/CourseTab.php:1410
+msgid "Margin Top"
+msgstr ""
+
+#: widgets/CourseTab.php:1899
+msgid "No  Posts  Found"
+msgstr ""
+
+#: widgets/EventList.php:34
+msgid "Event List"
+msgstr ""
+
+#: widgets/EventList.php:95
+msgid "designs"
+msgstr ""
+
+#: widgets/EventList.php:158 widgets/Heading.php:160 widgets/Instructor.php:187
+#: widgets/Team.php:189
+msgid "Heading Description Text"
+msgstr ""
+
+#: widgets/EventList.php:248
+msgid "Get ticket"
+msgstr ""
+
+#: widgets/EventList.php:262 widgets/EventList.php:436 widgets/PostList.php:95
+#: widgets/PostList.php:177 widgets/PostList.php:502
+msgid "List"
+msgstr ""
+
+#: widgets/EventList.php:340
+msgid "BTN Text"
+msgstr ""
+
+#: widgets/EventList.php:343
+msgid "Read More"
+msgstr ""
+
+#: widgets/EventList.php:344
+msgid "Link Text"
+msgstr ""
+
+#: widgets/EventList.php:447 widgets/PostList.php:510
+msgid "Common"
+msgstr ""
+
+#: widgets/EventList.php:638 widgets/PostList.php:948
+msgid "Meta Icon"
+msgstr ""
+
+#: widgets/FeaturedList.php:33 widgets/FeaturedList.php:223
+msgid "Featured List"
+msgstr ""
+
+#: widgets/FeaturedList.php:248
+msgid "BG Color"
+msgstr ""
+
+#: widgets/FeaturedList.php:358
+msgid "Features Title"
+msgstr ""
+
+#: widgets/FeaturedList.php:359 widgets/Iconbox.php:236
+msgid "Type Icon Box Title"
+msgstr ""
+
+#: widgets/FeaturedList.php:373
+msgid "Url here"
+msgstr ""
+
+#: widgets/FeaturedList.php:390 widgets/Iconbox.php:250 widgets/Iconbox.php:284
+msgid "Icon Description"
+msgstr ""
+
+#: widgets/Heading.php:35
+msgid "Heading"
+msgstr ""
+
+#: widgets/Hero.php:35
+msgid "Hero"
+msgstr ""
+
+#: widgets/Hero.php:131
+msgid "Search Show/Hide"
+msgstr ""
+
+#: widgets/Hero.php:212 widgets/Hero.php:215
+msgid "Icon Text"
+msgstr ""
+
+#: widgets/Hero.php:216
+msgid "Enter Icon Text"
+msgstr ""
+
+#: widgets/Hero.php:229 widgets/Hero.php:232
+msgid "Image Text"
+msgstr ""
+
+#: widgets/Hero.php:233
+msgid "Enter Image Text"
+msgstr ""
+
+#: widgets/Hero.php:246
+msgid "Form Placeholder"
+msgstr ""
+
+#: widgets/Hero.php:250
+msgid "Enter Form Placeholder"
+msgstr ""
+
+#: widgets/Hero.php:352
+msgid "Hero Image"
+msgstr ""
+
+#: widgets/Hero.php:369
+msgid "Hero Image 02"
+msgstr ""
+
+#: widgets/Hero.php:537
+msgid "Social Icon"
+msgstr ""
+
+#: widgets/Hero.php:548
+msgid "Icon Label"
+msgstr ""
+
+#: widgets/Hero.php:588
+msgid "Style"
+msgstr ""
+
+#: widgets/Hero.php:595
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/Hero.php:606
+msgid "Icon Hover Color"
+msgstr ""
+
+#: widgets/Hero.php:621
+msgid "Icon List"
+msgstr ""
+
+#: widgets/Hero.php:626
+msgid "FaceBook"
+msgstr ""
+
+#: widgets/Iconbox.php:34
+msgid "Iconbox"
+msgstr ""
+
+#: widgets/Iconbox.php:119 widgets/PricingTable.php:129
+#: widgets/StickyVideo.php:142 widgets/StickyVideo.php:414
+msgid "Icon / Image"
+msgstr ""
+
+#: widgets/Iconbox.php:235
+msgid "Icon Box"
+msgstr ""
+
+#: widgets/Iconbox.php:264
+msgid "Icon Box Link"
+msgstr ""
+
+#: widgets/Iconbox.php:268
+msgid "Type Icon Box Link Here"
+msgstr ""
+
+#: widgets/Iconbox.php:351
+msgid "Justify"
+msgstr ""
+
+#: widgets/Iconbox.php:411
+msgid "Full Width?"
+msgstr ""
+
+#: widgets/Iconbox.php:441
+msgid "Stretch"
+msgstr ""
+
+#: widgets/Iconbox.php:478
+msgid "Before Text"
+msgstr ""
+
+#: widgets/Iconbox.php:479
+msgid "After Text"
+msgstr ""
+
+#: widgets/Iconbox.php:514
+msgid "Icon/Image"
+msgstr ""
+
+#: widgets/Iconbox.php:522 widgets/StickyVideo.php:422
+msgid "Size"
+msgstr ""
+
+#: widgets/Iconbox.php:540 widgets/StickyVideo.php:489
+msgid "Offset"
+msgstr ""
+
+#: widgets/Iconbox.php:552 widgets/StickyVideo.php:502
+msgid "Offset Left"
+msgstr ""
+
+#: widgets/Iconbox.php:573 widgets/StickyVideo.php:521
+msgid "Offset Top"
+msgstr ""
+
+#: widgets/Iconbox.php:696 widgets/Iconbox.php:766
+msgid "Rotate Icon Box"
+msgstr ""
+
+#: widgets/Instructor.php:34
+msgid "Instructor"
+msgstr ""
+
+#: widgets/Instructor.php:123 widgets/Team.php:125
+msgid "Subtitle Icon Show/Hide"
+msgstr ""
+
+#: widgets/Instructor.php:139 widgets/Team.php:141
+msgid "Title Icon"
+msgstr ""
+
+#: widgets/Instructor.php:306 widgets/Team.php:308
+msgid "Members List"
+msgstr ""
+
+#: widgets/Instructor.php:344 widgets/Team.php:346
+msgid "BDevs Member Title"
+msgstr ""
+
+#: widgets/Instructor.php:358 widgets/Team.php:360
+msgid "Designation"
+msgstr ""
+
+#: widgets/Instructor.php:359 widgets/Team.php:361
+msgid "BDevs Officer"
+msgstr ""
+
+#: widgets/Instructor.php:360 widgets/Team.php:362
+msgid "Type designation here"
+msgstr ""
+
+#: widgets/Instructor.php:373 widgets/Team.php:375
+msgid "Type link here"
+msgstr ""
+
+#: widgets/Instructor.php:387 widgets/Instructor.php:388
+msgid "Instructor Review"
+msgstr ""
+
+#: widgets/Instructor.php:401 widgets/Instructor.php:402
+msgid "Instructor Course"
+msgstr ""
+
+#: widgets/Instructor.php:912 widgets/Team.php:886
+msgid "Box Title / Content"
+msgstr ""
+
+#: widgets/PostList.php:32
+msgid "Post List"
+msgstr ""
+
+#: widgets/PostList.php:130
+msgid "Posts"
+msgstr ""
+
+#: widgets/PostList.php:171
+msgid "Layout"
+msgstr ""
+
+#: widgets/PostList.php:181
+msgid "Inline"
+msgstr ""
+
+#: widgets/PostList.php:218
+msgid "List Icon"
+msgstr ""
+
+#: widgets/PostList.php:282
+msgid "Show Meta"
+msgstr ""
+
+#: widgets/PostList.php:297 widgets/PostList.php:725
+msgid "Author"
+msgstr ""
+
+#: widgets/PostList.php:313
+msgid "Author Icon"
+msgstr ""
+
+#: widgets/PostList.php:330
+msgid "Date"
+msgstr ""
+
+#: widgets/PostList.php:346
+msgid "Date Icon"
+msgstr ""
+
+#: widgets/PostList.php:363
+msgid "Category"
+msgstr ""
+
+#: widgets/PostList.php:380
+msgid "Category Icon"
+msgstr ""
+
+#: widgets/PostList.php:651
+msgid "Blog Meta"
+msgstr ""
+
+#: widgets/PostList.php:676
+msgid "Meta Color"
+msgstr ""
+
+#: widgets/PostList.php:687
+msgid "Meta Icon Color"
+msgstr ""
+
+#: widgets/PostList.php:760
+msgid "Icon & Feature Image"
+msgstr ""
+
+#: widgets/PostList.php:799
+msgid "Font Size"
+msgstr ""
+
+#: widgets/PostList.php:814
+msgid "Line Height"
+msgstr ""
+
+#: widgets/PostList.php:829
+msgid "Image Width"
+msgstr ""
+
+#: widgets/PostList.php:877
+msgid "Margin Right"
+msgstr ""
+
+#: widgets/PostList.php:995
+msgid "SEE MORE"
+msgstr ""
+
+#: widgets/PricingTable.php:34
+msgid "Pricing Table"
+msgstr ""
+
+#: widgets/PricingTable.php:112
+msgid "Active Price"
+msgstr ""
+
+#: widgets/PricingTable.php:216 widgets/PricingTable.php:649
+msgid "Header"
+msgstr ""
+
+#: widgets/PricingTable.php:224
+msgid "Pricing Plan Name"
+msgstr ""
+
+#: widgets/PricingTable.php:227
+msgid "Business Plan"
+msgstr ""
+
+#: widgets/PricingTable.php:240 widgets/PricingTable.php:1114
+msgid "Badge"
+msgstr ""
+
+#: widgets/PricingTable.php:264
+msgid "Badge Text"
+msgstr ""
+
+#: widgets/PricingTable.php:266
+msgid "Popular"
+msgstr ""
+
+#: widgets/PricingTable.php:267
+msgid "Type badge text"
+msgstr ""
+
+#: widgets/PricingTable.php:284 widgets/PricingTable.php:729
+msgid "Pricing"
+msgstr ""
+
+#: widgets/PricingTable.php:292 widgets/PricingTable.php:777
+msgid "Currency"
+msgstr ""
+
+#: widgets/PricingTable.php:297
+msgctxt "Currency Symbol"
+msgid "Baht"
+msgstr ""
+
+#: widgets/PricingTable.php:298
+msgctxt "Currency Symbol"
+msgid "BD Taka"
+msgstr ""
+
+#: widgets/PricingTable.php:299
+msgctxt "Currency Symbol"
+msgid "Dollar"
+msgstr ""
+
+#: widgets/PricingTable.php:300
+msgctxt "Currency Symbol"
+msgid "Euro"
+msgstr ""
+
+#: widgets/PricingTable.php:301
+msgctxt "Currency Symbol"
+msgid "Franc"
+msgstr ""
+
+#: widgets/PricingTable.php:302
+msgctxt "Currency Symbol"
+msgid "Guilder"
+msgstr ""
+
+#: widgets/PricingTable.php:303
+msgctxt "Currency Symbol"
+msgid "Krona"
+msgstr ""
+
+#: widgets/PricingTable.php:304
+msgctxt "Currency Symbol"
+msgid "Lira"
+msgstr ""
+
+#: widgets/PricingTable.php:305
+msgctxt "Currency Symbol"
+msgid "Peseta"
+msgstr ""
+
+#: widgets/PricingTable.php:306
+msgctxt "Currency Symbol"
+msgid "Peso"
+msgstr ""
+
+#: widgets/PricingTable.php:307
+msgctxt "Currency Symbol"
+msgid "Pound Sterling"
+msgstr ""
+
+#: widgets/PricingTable.php:308
+msgctxt "Currency Symbol"
+msgid "Real"
+msgstr ""
+
+#: widgets/PricingTable.php:309
+msgctxt "Currency Symbol"
+msgid "Ruble"
+msgstr ""
+
+#: widgets/PricingTable.php:310
+msgctxt "Currency Symbol"
+msgid "Rupee"
+msgstr ""
+
+#: widgets/PricingTable.php:311
+msgctxt "Currency Symbol"
+msgid "Rupee (Indian)"
+msgstr ""
+
+#: widgets/PricingTable.php:312
+msgctxt "Currency Symbol"
+msgid "Shekel"
+msgstr ""
+
+#: widgets/PricingTable.php:313
+msgctxt "Currency Symbol"
+msgid "Won"
+msgstr ""
+
+#: widgets/PricingTable.php:314
+msgctxt "Currency Symbol"
+msgid "Yen/Yuan"
+msgstr ""
+
+#: widgets/PricingTable.php:324
+msgid "Custom Symbol"
+msgstr ""
+
+#: widgets/PricingTable.php:338 widgets/PricingTable.php:738
+msgid "Price"
+msgstr ""
+
+#: widgets/PricingTable.php:350
+msgid "Period/Point"
+msgstr ""
+
+#: widgets/PricingTable.php:352
+msgid ".99"
+msgstr ""
+
+#: widgets/PricingTable.php:366 widgets/PricingTable.php:375
+#: widgets/PricingTable.php:860
+msgid "Features"
+msgstr ""
+
+#: widgets/PricingTable.php:404 widgets/PricingTable.php:465
+msgid "Exciting Feature"
+msgstr ""
+
+#: widgets/PricingTable.php:453
+msgid "Standard Feature"
+msgstr ""
+
+#: widgets/PricingTable.php:457
+msgid "Another Great Feature"
+msgstr ""
+
+#: widgets/PricingTable.php:461
+msgid "Obsolete Feature"
+msgstr ""
+
+#: widgets/PricingTable.php:480
+msgid "Price Footer"
+msgstr ""
+
+#: widgets/PricingTable.php:490
+msgid "Subscribe"
+msgstr ""
+
+#: widgets/PricingTable.php:538
+msgid "General"
+msgstr ""
+
+#: widgets/PricingTable.php:669
+msgid "Title Color"
+msgstr ""
+
+#: widgets/PricingTable.php:689
+msgid "Heading BG Color"
+msgstr ""
+
+#: widgets/PricingTable.php:711
+msgid "Header Icon Color"
+msgstr ""
+
+#: widgets/PricingTable.php:785
+msgid "Side Spacing"
+msgstr ""
+
+#: widgets/PricingTable.php:817
+msgid "Period"
+msgstr ""
+
+#: widgets/PricingTable.php:869
+msgid "Features List Title"
+msgstr ""
+
+#: widgets/PricingTable.php:900
+msgid "Top Border Color"
+msgstr ""
+
+#: widgets/PricingTable.php:913
+msgid "Features List Icon Color"
+msgstr ""
+
+#: widgets/PricingTable.php:938
+msgid "Footer"
+msgstr ""
+
+#: widgets/Skill.php:36
+msgid "Skill"
+msgstr ""
+
+#: widgets/Skill.php:84
+msgid "Skill & Title"
+msgstr ""
+
+#: widgets/Skill.php:129 widgets/Skill.php:132 widgets/Skill.php:133
+msgid "Skill Title"
+msgstr ""
+
+#: widgets/Skill.php:143 widgets/Skill.php:146 widgets/Skill.php:147
+msgid "Skill Sub Title"
+msgstr ""
+
+#: widgets/Skill.php:323
+msgid "Circle Number"
+msgstr ""
+
+#: widgets/Skill.php:376
+msgid "Slider Item"
+msgstr ""
+
+#: widgets/StickyVideo.php:34
+msgid "Sticky Video"
+msgstr ""
+
+#: widgets/StickyVideo.php:213
+msgid "Shape Images"
+msgstr ""
+
+#: widgets/StickyVideo.php:468
+msgid "Height"
+msgstr ""
+
+#: widgets/StickyVideo.php:632
+msgid "Background Rotate"
+msgstr ""
+
+#: widgets/StickyVideo.php:668 widgets/VideoInfo.php:343
+msgid "Content Box Padding"
+msgstr ""
+
+#: widgets/Team.php:34
+msgid "Team"
+msgstr ""
+
+#: widgets/TestimonialSlider.php:33
+msgid "Testimonial Slider"
+msgstr ""
+
+#: widgets/TestimonialSlider.php:317
+msgid "profile Image"
+msgstr ""
+
+#: widgets/TestimonialSlider.php:334
+msgid "Quote Image"
+msgstr ""
+
+#: widgets/TestimonialSlider.php:353 widgets/TestimonialSlider.php:762
+msgid "Review Title"
+msgstr ""
+
+#: widgets/TestimonialSlider.php:369
+msgid "Course Title"
+msgstr ""
+
+#: widgets/TestimonialSlider.php:385
+msgid "Course Title URL"
+msgstr ""
+
+#: widgets/TestimonialSlider.php:401
+msgid "Course Sub Title"
+msgstr ""
+
+#: widgets/TestimonialSlider.php:417
+msgid "Message"
+msgstr ""
+
+#: widgets/TestimonialSlider.php:433
+msgid "Client Name"
+msgstr ""
+
+#: widgets/TestimonialSlider.php:449
+msgid "Designation Name"
+msgstr ""
+
+#: widgets/TestimonialSlider.php:463
+msgid "Nav BG Image"
+msgstr ""
+
+#: widgets/VideoInfo.php:31
+msgid "Video Info"
+msgstr ""
+
+#: widgets/VideoInfo.php:271
+msgid "Shape"
+msgstr ""
+
+#: widgets/VideoInfo.php:292 widgets/VideoInfo.php:295
+#: widgets/VideoInfo.php:296
+msgid "Shape Top Text"
+msgstr ""
+
+#: widgets/VideoInfo.php:306 widgets/VideoInfo.php:309
+#: widgets/VideoInfo.php:310
+msgid "Shape Bottom Text"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://bdevs.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The ultimate Elementor Addons"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bdevs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.devsnews.com/"
+msgstr ""

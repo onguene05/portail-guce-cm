@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'optimalts';
+					src: url('/portail-guce-cm/wp-content/uploads/useanyfont/1182optimaLTS.woff2') format('woff2'),
+						url('/portail-guce-cm/wp-content/uploads/useanyfont/1182optimaLTS.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.optimalts{font-family: 'optimalts' !important;}
+
+						h1, h2, h3, h4, h5, h6, .entry-title, body.single-post .entry-title, body.page .entry-title, body.category .entry-title, .widget-title, .site-title, .site-description, body, p, blockquote, li, a, strong, b, em, .menu-liens-utiles-container li a, .menu-liens-utiles-container li span, #menu-liens-utiles li a, #menu-liens-utiles li span, .menu-main-menu-container li a, .menu-main-menu-container li span, #menu-main-menu li a, #menu-main-menu li span, .menu-main-pages-container li a, .menu-main-pages-container li span, #menu-main-pages li a, #menu-main-pages li span, .menu-main-pages2-container li a, .menu-main-pages2-container li span, #menu-main-pages2 li a, #menu-main-pages2 li span, .menu-menu_principal_en-container li a, .menu-menu_principal_en-container li span, #menu-menu_principal_en li a, #menu-menu_principal_en li span, .menu-menu_principal_fr-container li a, .menu-menu_principal_fr-container li span, #menu-menu_principal_fr li a, #menu-menu_principal_fr li span, .menu-our-services-container li a, .menu-our-services-container li span, #menu-our-services li a, #menu-our-services li span, .menu-services-container li a, .menu-services-container li span, #menu-services li a, #menu-services li span{
+					font-family: 'optimalts' !important;
+				}
+		

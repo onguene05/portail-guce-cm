@@ -1,0 +1,465 @@
+/*----------------------------------------*/
+/*  Theme default
+/*----------------------------------------*/
+
+@import url("https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+body {
+	font-family: $dm-sans;
+	font-weight: 400;
+	font-style: normal;
+	color: var(--clr-body-text);
+	font-size: 16px;
+	line-height: 26px;
+}
+.bd-custom-container {
+	max-width: 1730px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 0 auto;
+}
+.img,
+img {
+	max-width: 100%;
+	transition: all 1.5s cubic-bezier(0, 0, 0.2, 1);
+}
+.f-left {
+	float: left;
+}
+.f-right {
+	float: right;
+}
+.fix {
+	overflow: hidden;
+}
+a,
+button,
+i {
+	@include transition(0.3s);
+	text-decoration: none;
+}
+a:focus,
+.button:focus {
+	text-decoration: none;
+	outline: none;
+}
+a:focus,
+a:hover {
+	color: inherit;
+	text-decoration: none;
+}
+a,
+button {
+	color: inherit;
+	outline: medium none;
+	text-decoration: none;
+}
+button:focus,
+input:focus,
+input:focus,
+textarea,
+textarea:focus {
+	outline: 0;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.capitalize {
+	text-transform: capitalize;
+}
+input,
+select,
+textarea {
+	font-family: $dm-sans;
+	font-weight: 400;
+	opacity: 1;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: $archivo;
+	color: var(--clr-body-heading);
+	margin: 0px;
+	font-style: normal;
+	font-weight: 700;
+	text-transform: normal;
+	margin-bottom: 10px;
+}
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+	color: inherit;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+}
+p {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 27px;
+	color: var(--clr-body-text);
+	margin-bottom: 10px;
+}
+i {
+	line-height: 1;
+	display: inline-block;
+}
+label {
+	color: var(--clr-body-text);
+	cursor: pointer;
+	font-size: 14px;
+	font-weight: 400;
+}
+.display-inline {
+	display: inline-block;
+}
+select {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+input,
+select {
+	font-family: $dm-sans;
+	font-weight: 400;
+}
+.custom-pad-15 {
+	padding-left: 7.5px;
+	padding-right: 7.5px;
+}
+.custom-mar-15 {
+	margin-right: -7.5px;
+	margin-left: -7.5px;
+}
+.radius-50 {
+	border-radius: 50px;
+}
+.w-full {
+	width: 100%;
+}
+/*--
+    - Input Placeholder
+-----------------------------------------*/
+*input::-moz-placeholder {
+	font-size: 16px;
+	opacity: 1;
+	font-family: $dm-sans;
+	font-weight: 400;
+}
+*input::placeholder {
+	font-size: 16px;
+	opacity: 1;
+	font-family: $dm-sans;
+	font-weight: 400;
+}
+
+/*--
+    - Common Classes
+-----------------------------------------*/
+.clear {
+	clear: both;
+}
+
+.translate-y--10 {
+	transform: translateY(-10px);
+}
+/*--
+    - Background color
+-----------------------------------------*/
+.theme-bg {
+	background-color: var(--clr-theme-1);
+}
+.gray-bg {
+	background-color: var(--clr-bg-gray);
+}
+.heading-bg {
+	background-color: var(--clr-body-heading);
+}
+/*--
+    - color
+-----------------------------------------*/
+.white-color {
+	color: var(--clr-common-white);
+}
+
+/*--
+    - Margin & Padding
+-----------------------------------------*/
+/*-- Margin Top --*/
+@for $i from 1 through 40 {
+	.mt-#{5 * $i} {
+		margin-top: 5px * $i;
+	}
+}
+
+/*-- Margin Bottom --*/
+@for $i from 1 through 40 {
+	.mb-#{5 * $i} {
+		margin-bottom: 5px * $i;
+	}
+}
+/*-- Margin Left --*/
+@for $i from 1 through 40 {
+	.ml-#{5 * $i} {
+		margin-left: 5px * $i;
+	}
+}
+
+/*-- Margin Right --*/
+@for $i from 1 through 40 {
+	.mr-#{5 * $i} {
+		margin-right: 5px * $i;
+	}
+}
+
+/*-- Padding Top --*/
+@for $i from 1 through 40 {
+	.pt-#{5 * $i} {
+		padding-top: 5px * $i;
+	}
+}
+
+/*-- Padding Bottom --*/
+@for $i from 1 through 40 {
+	.pb-#{5 * $i} {
+		padding-bottom: 5px * $i;
+	}
+}
+
+/*-- Padding Left --*/
+@for $i from 1 through 40 {
+	.pl-#{5 * $i} {
+		padding-left: 5px * $i;
+	}
+}
+
+/*-- Padding Right --*/
+@for $i from 1 through 40 {
+	.pr-#{5 * $i} {
+		padding-right: 5px * $i;
+	}
+}
+
+// others common css here :)
+
+:root {
+	/**
+    @color declaration
+    */
+	@each $color, $shades in $colors {
+		@each $shade, $value in $shades {
+			--clr-#{$color}-#{$shade}: #{$value};
+		}
+	}
+}
+
+/*Plugin Button Style */
+
+//btn style
+.theme-btn {
+	font-size: 14px;
+	display: inline-flex;
+	justify-content: center;
+	font-weight: 600;
+	border: none;
+	outline: none;
+	box-shadow: none;
+	height: 60px;
+	line-height: 60px;
+	border-radius: 10px;
+	color: var(--clr-common-white);
+	background-color: var(--clr-theme-1);
+	padding: 0px 38px;
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	text-transform: uppercase;
+	&.h-55 {
+		height: 55px;
+		line-height: 55px;
+	}
+}
+
+.theme-btn-black {
+	font-size: 14px;
+	display: inline-flex;
+	justify-content: center;
+	font-weight: 600;
+	border: none;
+	outline: none;
+	box-shadow: none;
+	height: 60px;
+	line-height: 60px;
+	border-radius: 10px;
+	color: var(--clr-common-white);
+	background-color: var(--clr-body-heading);
+	padding: 0px 38px;
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	text-transform: uppercase;
+}
+
+.theme-btn::before,
+.theme-btn-border::before,
+.theme-btn-black::before {
+	background-color: var(--clr-common-white);
+	content: "";
+	height: 150px;
+	left: -75px;
+	position: absolute;
+	top: -35px;
+	transform: rotate(35deg);
+	transition: all 1600ms cubic-bezier(0.19, 1, 0.22, 1);
+	width: 60px;
+	opacity: 0;
+}
+
+.theme-btn,
+.theme-btn-border,
+.theme-btn-black {
+	@media #{$xs} {
+		height: 50px;
+		line-height: 50px;
+		padding: 0px 30px;
+	}
+	&.theme-btn-rounded {
+		border-radius: 30px;
+	}
+	&:before {
+		background-color: var(--clr-common-white);
+		content: "";
+		height: 150px;
+		left: -75px;
+		position: absolute;
+		top: -35px;
+		transform: rotate(35deg);
+		transition: all 1600ms cubic-bezier(0.19, 1, 0.22, 1);
+		width: 60px;
+		opacity: 0;
+	}
+	&:hover {
+		color: var(--clr-common-white);
+		&:before {
+			left: 120%;
+			transition: all 1300ms cubic-bezier(0.19, 1, 0.22, 1);
+			opacity: 0.25;
+		}
+	}
+}
+
+//custom z-index
+.z-index {
+	z-index: 3;
+	position: relative;
+}
+
+
+.generic-cta-btn {
+	font-size: 15px;
+	font-weight: 700;
+	color: #fff;
+	height: 65px;
+	line-height: 65px;
+	text-align: center;
+	padding: 0 55px;
+	display: inline-block;
+	border-radius: 50px;
+	border: 2px solid #625df8;
+	background-color: #625df8;
+	text-transform: uppercase;
+	@include transition(0.3s);
+	i {
+		padding-left: 5px;
+		vertical-align: middle;
+	}
+	&:hover {
+		background-color: #fff;
+		border-color: #fff;
+		color: #625df8;
+	}
+}
+
+.generic-cta-border-btn {
+	font-size: 15px;
+	font-weight: 700;
+	color: #625df8;
+	height: 65px;
+	line-height: 65px;
+	text-align: center;
+	padding: 0 55px;
+	display: inline-block;
+	border-radius: 50px;
+	border: 2px solid #fff;
+	background-color: #fff;
+	text-transform: uppercase;
+	@include transition(0.3s);
+	i {
+		padding-left: 5px;
+		vertical-align: middle;
+	}
+	&:hover {
+		background-color: #625df8;
+		border-color: #625df8;
+		color: #fff;
+	}
+}
+
+
+// Generic contact btn
+.generic-contact-btn {
+	font-size: 16px;
+	background-color: #592DEE;
+	border: 1px solid #592DEE;
+	color: #ffff;
+	text-transform: capitalize;
+	line-height: 60px;
+	height: 60px;
+	padding: 0 40px;
+	@include transition(0.3s);
+	&:hover{
+		border-color: #592DEE;
+		background-color: transparent;
+		color: #000;
+	}
+}
+
+// Generic Card btn
+.generic-card-btn {
+	display: inline-block;
+	font-size: 16px;
+	background-color: #592DEE;
+	border: 1px solid #592DEE;
+	color: #ffff;
+	text-transform: capitalize;
+	height: 55px;
+	line-height: 55px;
+	padding: 0 40px;
+	@include transition(0.3s);
+	&:hover{
+		border-color: #592DEE;
+		background-color: transparent;
+		color: #000;
+	}
+}
+
+
+
+// Custome Animations
+/* pulseBig */
+@keyframes pulseBig {
+	0% {
+	  box-shadow: 0 0 0 0 #ffffff;
+	}
+	50% {
+	  box-shadow: 0 0 0 30px rgba(1, 93, 199, 0);
+	}
+	100% {
+	  box-shadow: 0 0 0 0 rgba(1, 93, 199, 0);
+	}
+  }

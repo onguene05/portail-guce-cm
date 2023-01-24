@@ -1,0 +1,32 @@
+.generic-el-skill-title-wrap {
+	display: flex;
+	justify-content: space-between;
+	span {
+		font-size: 14px;
+		color: #1A1A1A;
+		font-weight: 500;
+		line-height: 1;
+	}
+	.generic-el-skill-title {
+		font-size: 14px;
+		text-transform: uppercase;
+		font-weight: 500;
+		color: #1A1A1A;
+	}
+}
+
+.generic-el-skill-wrapper {
+	.progress {
+		background-color: #ECEEF6;
+		height: 30px;
+		border-radius: 50px;
+		.progress-bar {
+			background-color: #4A66FA;
+			border-radius: 50px;
+		}
+
+	}
+}
+.generic-el-skill-single:not(:first-child){
+	margin-top: 25px;
+}

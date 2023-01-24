@@ -1,0 +1,19 @@
+@use "../abstract" as *;
+
+/*----------------------------------------*/
+/*   26. Counter CSS
+/*----------------------------------------*/
+
+// counter style css
+.bd-counter__text {
+	span {
+		font-size: 60px;
+		font-weight: 700;
+		color: var(--clr-common-text-4);
+		line-height: 1;
+		display: inline-block;
+		@media #{$md,$sm,$xs} {
+			font-size: 40px;
+		}
+	}
+}

@@ -1,0 +1,24 @@
+.generic-el-card-wrapper {
+	box-shadow: 0 3px 40px rgba(36,36,36,.1);
+	.generic-el-card-thumb {
+		height: 300px;
+		width: 100%;
+		img {
+			width: 100%;
+			max-height: 100%;
+			object-fit: cover;
+		}
+	}
+	.generic-el-card-body {
+		background: #fff;
+		padding: 30px;
+		.generic-card-title {
+			font-weight: 700;
+			margin-bottom: 2px;
+		}
+		.generic-el-desc {
+			margin-bottom: 20px;
+		}
+	}
+
+}

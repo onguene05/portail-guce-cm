@@ -1,0 +1,86 @@
+
+@use "../abstract" as *;
+
+/*----------------------------------------*/
+/*   27. award CSS
+/*----------------------------------------*/
+
+
+// Awards-style-css
+.bd-awards__wrapper {
+	display: flex;
+	align-items: center;
+	gap: 32px;
+  @media #{$xs}{
+    gap: 20px;
+  }
+}
+.bd-awards__img {
+	img {
+		min-width: 110px;
+	}
+}
+.bd-awards___title {
+	span {
+		background: var(--clr-common-white);
+		position: relative;
+		padding: 7px 20px 7px 26px;
+		border-radius: 50px;
+		box-shadow: 0px 16px 32px 0px rgba(20, 31, 43, 0.06);
+		color: var(--clr-common-text-2);
+		display: inline-block;
+		line-height: 1;
+		font-size: 14px;
+		font-weight: 700;
+		margin-bottom: 15px;
+		&:after {
+			position: absolute;
+			content: "";
+			height: 8px;
+			width: 8px;
+			top: 50%;
+			transform: translateY(-50%);
+			left: 11px;
+			border-radius: 50%;
+			font-size: 14px;
+			font-weight: 700;
+			background-image: -moz-linear-gradient( 0deg, rgb(255,56,52) 0%, rgb(255,112,51) 100%);
+			background-image: -webkit-linear-gradient( 0deg, rgb(255,56,52) 0%, rgb(255,112,51) 100%);
+			background-image: -ms-linear-gradient( 0deg, rgb(255,56,52) 0%, rgb(255,112,51) 100%);
+		}
+	}
+}
+.bd-awards__content {
+	display: flex;
+	align-items: center;
+	gap: 240px;
+	padding-left: 60px;
+  @media #{$lg,$md,$sm,}{
+    padding-left: 0;
+    gap: 60px;
+  }
+  @media #{$xs}{
+    padding-left: 0;
+    gap: 30px;
+  }
+}
+.bd-awards__text {
+	p {
+		margin-bottom: 30px;
+	}
+}
+.bd-awards__main {
+	border-bottom: 1px solid #eaeaea;
+	&:last-child {
+		border-bottom: 0;
+	}
+}
+.bd-awards__link {
+	a {
+		color: #cecece;
+		font-size: 26px;
+		&:hover {
+			color: var(--clr-common-text-2);
+		}
+	}
+}

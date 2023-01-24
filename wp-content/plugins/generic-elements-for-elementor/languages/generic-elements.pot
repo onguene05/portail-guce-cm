@@ -1,0 +1,1246 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Generic Elements For Elementor\n"
+"POT-Creation-Date: 2022-06-27 15:30+0600\n"
+"PO-Revision-Date: 2022-06-27 15:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: generic-elements.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: classes/Helper.php:11 widgets/Hero.php:34
+msgid "Hero"
+msgstr ""
+
+#: classes/Helper.php:15 widgets/PostList.php:32
+msgid "Post List"
+msgstr ""
+
+#: classes/Helper.php:19 widgets/Testimonial.php:30
+msgid "Testimonial"
+msgstr ""
+
+#: classes/Helper.php:23 widgets/Team.php:30
+msgid "Team"
+msgstr ""
+
+#: classes/Helper.php:27 widgets/Slider.php:31
+msgid "Slider"
+msgstr ""
+
+#: classes/Helper.php:31 widgets/Heading.php:35
+msgid "Heading"
+msgstr ""
+
+#: classes/Helper.php:35 widgets/Instagram.php:34 widgets/Team.php:255
+msgid "Instagram"
+msgstr ""
+
+#: classes/Helper.php:39 widgets/CallToAction.php:35
+msgid "Call To Action"
+msgstr ""
+
+#: classes/Helper.php:43 widgets/VideoInfo.php:36
+msgid "Video Info"
+msgstr ""
+
+#: classes/Helper.php:47 widgets/FunFactor.php:35
+msgid "Fun Factor"
+msgstr ""
+
+#: classes/Helper.php:51 widgets/InfoBox.php:34
+msgid "Info Box"
+msgstr ""
+
+#: classes/Helper.php:55 widgets/ContactForm7.php:34
+msgid "Contact Form 7"
+msgstr ""
+
+#: classes/Helper.php:59 widgets/Skill.php:34
+msgid "Skill"
+msgstr ""
+
+#: classes/Helper.php:63 widgets/Card.php:34
+msgid "Card"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor
+#: includes/Notices.php:41
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: includes/Notices.php:42 includes/RegisterCategory.php:28
+msgid "Generic Elements"
+msgstr ""
+
+#: includes/Notices.php:43 includes/Notices.php:67
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: includes/Notices.php:65 includes/Notices.php:90
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: includes/Notices.php:66 includes/Notices.php:91
+msgid "Bdevs Element"
+msgstr ""
+
+#: includes/Notices.php:92
+msgid "PHP"
+msgstr ""
+
+#: includes/RegisterCategory.php:35
+msgid "Generic Elements Pro"
+msgstr ""
+
+#: widgets/CallToAction.php:92 widgets/Instagram.php:90 widgets/Slider.php:79
+#: widgets/VideoInfo.php:272
+msgid "Background Overlay"
+msgstr ""
+
+#: widgets/CallToAction.php:101 widgets/ContactForm7.php:161
+#: widgets/ContactForm7.php:595 widgets/ContactForm7.php:647
+#: widgets/FunFactor.php:335 widgets/InfoBox.php:646 widgets/Instagram.php:99
+#: widgets/PostList.php:372 widgets/Slider.php:88 widgets/VideoInfo.php:281
+msgid "Background"
+msgstr ""
+
+#: widgets/CallToAction.php:110 widgets/Instagram.php:108 widgets/Slider.php:97
+#: widgets/VideoInfo.php:290
+msgid "Opacity"
+msgstr ""
+
+#: widgets/CallToAction.php:137 widgets/Card.php:126 widgets/Card.php:488
+#: widgets/Heading.php:87 widgets/Hero.php:128 widgets/InfoBox.php:733
+msgid "Title & Description"
+msgstr ""
+
+#: widgets/CallToAction.php:145 widgets/CallToAction.php:148
+#: widgets/Heading.php:110 widgets/Hero.php:136 widgets/Hero.php:139
+#: widgets/Slider.php:153
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/CallToAction.php:149 widgets/Hero.php:140
+msgid "Enter Sub Title"
+msgstr ""
+
+#: widgets/CallToAction.php:159 widgets/CallToAction.php:604
+#: widgets/Card.php:134 widgets/Card.php:511 widgets/FunFactor.php:226
+#: widgets/FunFactor.php:609 widgets/Heading.php:95 widgets/Heading.php:244
+#: widgets/Hero.php:150 widgets/Hero.php:445 widgets/InfoBox.php:183
+#: widgets/InfoBox.php:743 widgets/PostList.php:416 widgets/PostList.php:821
+#: widgets/Skill.php:110 widgets/Slider.php:167 widgets/Slider.php:377
+#: widgets/Team.php:124
+msgid "Title"
+msgstr ""
+
+#: widgets/CallToAction.php:162 widgets/Hero.php:153
+msgid "Hero Title"
+msgstr ""
+
+#: widgets/CallToAction.php:163 widgets/Hero.php:154
+msgid "Enter Hero Title"
+msgstr ""
+
+#: widgets/CallToAction.php:173 widgets/CallToAction.php:686
+#: widgets/Card.php:148 widgets/Card.php:558 widgets/Heading.php:124
+#: widgets/Heading.php:326 widgets/Hero.php:164 widgets/Hero.php:527
+#: widgets/InfoBox.php:196 widgets/InfoBox.php:792 widgets/Slider.php:181
+#: widgets/Slider.php:459
+msgid "Description"
+msgstr ""
+
+#: widgets/CallToAction.php:175 widgets/Hero.php:166
+msgid "Hero description goes here"
+msgstr ""
+
+#: widgets/CallToAction.php:176 widgets/Hero.php:167
+msgid "Enter Hero description"
+msgstr ""
+
+#: widgets/CallToAction.php:187 widgets/Card.php:162 widgets/Heading.php:136
+#: widgets/Hero.php:178 widgets/InfoBox.php:209 widgets/PostList.php:254
+#: widgets/Team.php:438
+msgid "Title HTML Tag"
+msgstr ""
+
+#: widgets/CallToAction.php:191 widgets/Card.php:167 widgets/Heading.php:140
+#: widgets/Hero.php:182 widgets/InfoBox.php:214 widgets/PostList.php:258
+#: widgets/Team.php:442
+msgid "H1"
+msgstr ""
+
+#: widgets/CallToAction.php:195 widgets/Card.php:171 widgets/Heading.php:144
+#: widgets/Hero.php:186 widgets/InfoBox.php:218 widgets/PostList.php:262
+#: widgets/Team.php:446
+msgid "H2"
+msgstr ""
+
+#: widgets/CallToAction.php:199 widgets/Card.php:175 widgets/Heading.php:148
+#: widgets/Hero.php:190 widgets/InfoBox.php:222 widgets/PostList.php:266
+#: widgets/Team.php:450
+msgid "H3"
+msgstr ""
+
+#: widgets/CallToAction.php:203 widgets/Card.php:179 widgets/Heading.php:152
+#: widgets/Hero.php:194 widgets/InfoBox.php:226 widgets/PostList.php:270
+#: widgets/Team.php:454
+msgid "H4"
+msgstr ""
+
+#: widgets/CallToAction.php:207 widgets/Card.php:183 widgets/Heading.php:156
+#: widgets/Hero.php:198 widgets/InfoBox.php:230 widgets/PostList.php:274
+#: widgets/Team.php:458
+msgid "H5"
+msgstr ""
+
+#: widgets/CallToAction.php:211 widgets/Card.php:187 widgets/Heading.php:160
+#: widgets/Hero.php:202 widgets/InfoBox.php:234 widgets/PostList.php:278
+#: widgets/Team.php:462
+msgid "H6"
+msgstr ""
+
+#: widgets/CallToAction.php:223 widgets/CallToAction.php:344
+#: widgets/CallToAction.php:479 widgets/Card.php:200 widgets/Card.php:287
+#: widgets/FunFactor.php:271 widgets/Heading.php:172 widgets/Hero.php:214
+#: widgets/InfoBox.php:245 widgets/InfoBox.php:327 widgets/PostList.php:290
+#: widgets/Slider.php:862 widgets/Team.php:474 widgets/Team.php:804
+msgid "Alignment"
+msgstr ""
+
+#: widgets/CallToAction.php:227 widgets/CallToAction.php:348
+#: widgets/CallToAction.php:483 widgets/Card.php:204 widgets/Card.php:291
+#: widgets/FunFactor.php:275 widgets/Heading.php:176 widgets/Hero.php:218
+#: widgets/InfoBox.php:249 widgets/InfoBox.php:331 widgets/PostList.php:294
+#: widgets/Slider.php:867 widgets/Team.php:478 widgets/Team.php:809
+msgid "Left"
+msgstr ""
+
+#: widgets/CallToAction.php:231 widgets/CallToAction.php:352
+#: widgets/CallToAction.php:487 widgets/Card.php:208 widgets/Card.php:295
+#: widgets/FunFactor.php:279 widgets/Heading.php:180 widgets/Hero.php:222
+#: widgets/InfoBox.php:253 widgets/InfoBox.php:335 widgets/PostList.php:298
+#: widgets/Slider.php:871 widgets/Team.php:482 widgets/Team.php:813
+msgid "Center"
+msgstr ""
+
+#: widgets/CallToAction.php:235 widgets/CallToAction.php:356
+#: widgets/CallToAction.php:491 widgets/Card.php:212 widgets/Card.php:299
+#: widgets/FunFactor.php:283 widgets/Heading.php:184 widgets/Hero.php:226
+#: widgets/InfoBox.php:257 widgets/InfoBox.php:339 widgets/PostList.php:302
+#: widgets/Slider.php:875 widgets/Team.php:486 widgets/Team.php:817
+msgid "Right"
+msgstr ""
+
+#: widgets/CallToAction.php:256
+msgid "Background Image"
+msgstr ""
+
+#: widgets/CallToAction.php:264 widgets/Card.php:90 widgets/Card.php:98
+#: widgets/Card.php:378 widgets/FunFactor.php:114 widgets/FunFactor.php:127
+#: widgets/Hero.php:89 widgets/InfoBox.php:104 widgets/InfoBox.php:117
+#: widgets/Instagram.php:148 widgets/Team.php:109
+msgid "Image"
+msgstr ""
+
+#: widgets/CallToAction.php:293 widgets/CallToAction.php:733
+msgid "Button Left"
+msgstr ""
+
+#: widgets/CallToAction.php:301 widgets/CallToAction.php:436
+#: widgets/Card.php:244 widgets/Hero.php:257 widgets/InfoBox.php:284
+msgid "Text"
+msgstr ""
+
+#: widgets/CallToAction.php:304 widgets/CallToAction.php:439
+#: widgets/Card.php:247 widgets/Hero.php:260 widgets/Hero.php:304
+#: widgets/InfoBox.php:287 widgets/Slider.php:197
+msgid "Type button text here"
+msgstr ""
+
+#: widgets/CallToAction.php:315 widgets/CallToAction.php:450
+#: widgets/Card.php:258 widgets/Hero.php:271 widgets/InfoBox.php:298
+msgid "Link"
+msgstr ""
+
+#: widgets/CallToAction.php:330 widgets/CallToAction.php:465
+#: widgets/Card.php:273 widgets/InfoBox.php:313
+msgid "Full Width?"
+msgstr ""
+
+#: widgets/CallToAction.php:360 widgets/CallToAction.php:495
+#: widgets/Card.php:303 widgets/InfoBox.php:343
+msgid "Stretch"
+msgstr ""
+
+#: widgets/CallToAction.php:393 widgets/CallToAction.php:528
+#: widgets/Card.php:336 widgets/InfoBox.php:376
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/CallToAction.php:397 widgets/CallToAction.php:532
+#: widgets/Card.php:340 widgets/InfoBox.php:380
+msgid "Before Text"
+msgstr ""
+
+#: widgets/CallToAction.php:398 widgets/CallToAction.php:533
+#: widgets/Card.php:341 widgets/InfoBox.php:381
+msgid "After Text"
+msgstr ""
+
+#: widgets/CallToAction.php:409 widgets/CallToAction.php:544
+#: widgets/Card.php:352 widgets/InfoBox.php:392
+msgid "Icon Spacing"
+msgstr ""
+
+#: widgets/CallToAction.php:428 widgets/CallToAction.php:906
+msgid "Button Right"
+msgstr ""
+
+#: widgets/CallToAction.php:571 widgets/Heading.php:211 widgets/Hero.php:412
+#: widgets/Slider.php:344 widgets/Team.php:561 widgets/Testimonial.php:250
+msgid "Title / Content"
+msgstr ""
+
+#: widgets/CallToAction.php:579 widgets/Card.php:496 widgets/Heading.php:219
+#: widgets/Hero.php:420 widgets/Hero.php:740 widgets/Slider.php:352
+#: widgets/Team.php:569 widgets/Testimonial.php:258
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/CallToAction.php:612 widgets/CallToAction.php:653
+#: widgets/CallToAction.php:694 widgets/Card.php:544 widgets/Card.php:584
+#: widgets/FunFactor.php:520 widgets/FunFactor.php:567
+#: widgets/FunFactor.php:618 widgets/Heading.php:252 widgets/Heading.php:293
+#: widgets/Heading.php:334 widgets/Hero.php:453 widgets/Hero.php:494
+#: widgets/Hero.php:535 widgets/Hero.php:762 widgets/InfoBox.php:577
+#: widgets/InfoBox.php:762 widgets/InfoBox.php:818 widgets/Skill.php:249
+#: widgets/Slider.php:385 widgets/Slider.php:426 widgets/Slider.php:467
+#: widgets/Team.php:602 widgets/Team.php:643 widgets/Testimonial.php:291
+#: widgets/Testimonial.php:332 widgets/Testimonial.php:373
+#: widgets/Testimonial.php:414
+msgid "Bottom Spacing"
+msgstr ""
+
+#: widgets/CallToAction.php:624 widgets/CallToAction.php:665
+#: widgets/CallToAction.php:706 widgets/CallToAction.php:818
+#: widgets/CallToAction.php:862 widgets/CallToAction.php:991
+#: widgets/CallToAction.php:1035 widgets/Card.php:518 widgets/Card.php:574
+#: widgets/Card.php:676 widgets/Card.php:720 widgets/ContactForm7.php:250
+#: widgets/ContactForm7.php:367 widgets/ContactForm7.php:571
+#: widgets/ContactForm7.php:624 widgets/Heading.php:264 widgets/Heading.php:305
+#: widgets/Heading.php:346 widgets/Hero.php:465 widgets/Hero.php:506
+#: widgets/Hero.php:547 widgets/Hero.php:644 widgets/Hero.php:676
+#: widgets/Hero.php:774 widgets/InfoBox.php:751 widgets/InfoBox.php:808
+#: widgets/InfoBox.php:908 widgets/InfoBox.php:952 widgets/PostList.php:896
+#: widgets/PostList.php:928 widgets/Slider.php:397 widgets/Slider.php:438
+#: widgets/Slider.php:479 widgets/Slider.php:576 widgets/Slider.php:608
+#: widgets/Slider.php:748 widgets/Slider.php:780 widgets/Team.php:614
+#: widgets/Team.php:655 widgets/Testimonial.php:303 widgets/Testimonial.php:344
+#: widgets/Testimonial.php:385
+msgid "Text Color"
+msgstr ""
+
+#: widgets/CallToAction.php:645 widgets/Heading.php:285 widgets/Hero.php:486
+#: widgets/Slider.php:154 widgets/Slider.php:418
+msgid "Subtitle"
+msgstr ""
+
+#: widgets/CallToAction.php:741 widgets/CallToAction.php:914
+#: widgets/Card.php:437 widgets/Card.php:611 widgets/ContactForm7.php:148
+#: widgets/ContactForm7.php:212 widgets/ContactForm7.php:326
+#: widgets/ContactForm7.php:471 widgets/FunFactor.php:322
+#: widgets/FunFactor.php:479 widgets/Hero.php:579 widgets/InfoBox.php:565
+#: widgets/InfoBox.php:843 widgets/PostList.php:359 widgets/PostList.php:831
+#: widgets/Slider.php:511
+msgid "Padding"
+msgstr ""
+
+#: widgets/CallToAction.php:753 widgets/CallToAction.php:926
+#: widgets/PostList.php:347 widgets/PostList.php:764
+msgid "Margin"
+msgstr ""
+
+#: widgets/CallToAction.php:781 widgets/CallToAction.php:954
+#: widgets/Card.php:457 widgets/Card.php:639 widgets/ContactForm7.php:178
+#: widgets/ContactForm7.php:338 widgets/ContactForm7.php:534
+#: widgets/FunFactor.php:352 widgets/FunFactor.php:500 widgets/Hero.php:607
+#: widgets/InfoBox.php:455 widgets/InfoBox.php:507 widgets/InfoBox.php:602
+#: widgets/InfoBox.php:871 widgets/PostList.php:399 widgets/PostList.php:690
+#: widgets/PostList.php:859 widgets/Skill.php:201 widgets/Slider.php:539
+#: widgets/Slider.php:727
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/CallToAction.php:811 widgets/CallToAction.php:984
+#: widgets/Card.php:669 widgets/ContactForm7.php:380
+#: widgets/ContactForm7.php:564 widgets/Hero.php:637 widgets/InfoBox.php:428
+#: widgets/InfoBox.php:627 widgets/InfoBox.php:901 widgets/PostList.php:434
+#: widgets/PostList.php:497 widgets/PostList.php:889 widgets/Slider.php:569
+#: widgets/Slider.php:741 widgets/Slider.php:890 widgets/Team.php:698
+#: widgets/Team.php:833
+msgid "Normal"
+msgstr ""
+
+#: widgets/CallToAction.php:830 widgets/CallToAction.php:873
+#: widgets/CallToAction.php:1003 widgets/CallToAction.php:1046
+#: widgets/Card.php:688 widgets/Card.php:731 widgets/ContactForm7.php:403
+#: widgets/ContactForm7.php:442 widgets/ContactForm7.php:583
+#: widgets/ContactForm7.php:635 widgets/FunFactor.php:531 widgets/Hero.php:656
+#: widgets/Hero.php:687 widgets/InfoBox.php:700 widgets/InfoBox.php:920
+#: widgets/InfoBox.php:963 widgets/PostList.php:908 widgets/PostList.php:939
+#: widgets/Slider.php:588 widgets/Slider.php:619 widgets/Slider.php:760
+#: widgets/Slider.php:791 widgets/Slider.php:908 widgets/Team.php:840
+#: widgets/Team.php:860
+msgid "Background Color"
+msgstr ""
+
+#: widgets/CallToAction.php:841 widgets/CallToAction.php:884
+#: widgets/CallToAction.php:1014 widgets/CallToAction.php:1057
+#: widgets/Card.php:699 widgets/Card.php:742 widgets/ContactForm7.php:604
+#: widgets/ContactForm7.php:656 widgets/Hero.php:709 widgets/InfoBox.php:711
+#: widgets/InfoBox.php:931 widgets/InfoBox.php:974 widgets/PostList.php:950
+#: widgets/Slider.php:630 widgets/Slider.php:802 widgets/Slider.php:919
+msgid "Border Color"
+msgstr ""
+
+#: widgets/CallToAction.php:855 widgets/CallToAction.php:1028
+#: widgets/Card.php:713 widgets/ContactForm7.php:617 widgets/Hero.php:669
+#: widgets/InfoBox.php:481 widgets/InfoBox.php:682 widgets/InfoBox.php:945
+#: widgets/PostList.php:453 widgets/PostList.php:527 widgets/PostList.php:921
+#: widgets/Slider.php:601 widgets/Slider.php:773 widgets/Slider.php:932
+#: widgets/Team.php:729
+msgid "Hover"
+msgstr ""
+
+#: widgets/Card.php:137
+msgid "Generic Card Title"
+msgstr ""
+
+#: widgets/Card.php:138
+msgid "Type Card Title Here"
+msgstr ""
+
+#: widgets/Card.php:151
+msgid "Generic Card Description"
+msgstr ""
+
+#: widgets/Card.php:152
+msgid "Type Card Description Here"
+msgstr ""
+
+#: widgets/Card.php:216
+msgid "Justify"
+msgstr ""
+
+#: widgets/Card.php:236 widgets/Card.php:603 widgets/Hero.php:248
+#: widgets/Hero.php:571 widgets/InfoBox.php:276 widgets/InfoBox.php:835
+#: widgets/PostList.php:813 widgets/Slider.php:503
+msgid "Button"
+msgstr ""
+
+#: widgets/Card.php:386 widgets/ContactForm7.php:277 widgets/FunFactor.php:387
+#: widgets/VideoInfo.php:220
+msgid "Width"
+msgstr ""
+
+#: widgets/Card.php:419 widgets/ContactForm7.php:483 widgets/FunFactor.php:415
+#: widgets/Skill.php:164 widgets/VideoInfo.php:245
+msgid "Height"
+msgstr ""
+
+#: widgets/ContactForm7.php:84 widgets/ContactForm7.php:113
+msgid "Select Form"
+msgstr ""
+
+#: widgets/ContactForm7.php:90
+msgid "No contact form found"
+msgstr ""
+
+#: widgets/ContactForm7.php:106
+msgid "Contact Form"
+msgstr ""
+
+#: widgets/ContactForm7.php:139 widgets/FunFactor.php:313 widgets/Hero.php:319
+#: widgets/InfoBox.php:176 widgets/Instagram.php:286 widgets/Skill.php:230
+msgid "Content"
+msgstr ""
+
+#: widgets/ContactForm7.php:170 widgets/FunFactor.php:344
+#: widgets/InfoBox.php:447 widgets/InfoBox.php:499 widgets/PostList.php:391
+#: widgets/PostList.php:679
+msgid "Border"
+msgstr ""
+
+#: widgets/ContactForm7.php:204
+msgid "Form Label"
+msgstr ""
+
+#: widgets/ContactForm7.php:225 widgets/ContactForm7.php:359
+#: widgets/FunFactor.php:591 widgets/FunFactor.php:642 widgets/PostList.php:425
+#: widgets/PostList.php:488 widgets/PostList.php:562 widgets/PostList.php:732
+msgid "Typography"
+msgstr ""
+
+#: widgets/ContactForm7.php:232 widgets/ContactForm7.php:308
+msgid "Spacing Bottom"
+msgstr ""
+
+#: widgets/ContactForm7.php:269
+msgid "Form Input Fields"
+msgstr ""
+
+#: widgets/ContactForm7.php:416
+msgid "Focus"
+msgstr ""
+
+#: widgets/ContactForm7.php:463
+msgid "Form Button"
+msgstr ""
+
+#: widgets/ContactForm7.php:500 widgets/PostList.php:642
+msgid "Line Height"
+msgstr ""
+
+#: widgets/ContactForm7.php:667
+msgid "Icon Translate X"
+msgstr ""
+
+#: widgets/ContactForm7.php:707
+msgid "Please Select contact form."
+msgstr ""
+
+#: widgets/FunFactor.php:95 widgets/Skill.php:84
+msgid "Fact List"
+msgstr ""
+
+#: widgets/FunFactor.php:105 widgets/InfoBox.php:95
+msgid "Media Type"
+msgstr ""
+
+#: widgets/FunFactor.php:110 widgets/Hero.php:326 widgets/InfoBox.php:100
+#: widgets/Instagram.php:161 widgets/PostList.php:237
+msgid "Icon"
+msgstr ""
+
+#: widgets/FunFactor.php:181 widgets/FunFactor.php:465 widgets/Hero.php:348
+#: widgets/Instagram.php:297 widgets/Instagram.php:305
+#: widgets/Testimonial.php:426
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/FunFactor.php:198 widgets/FunFactor.php:559
+msgid "Number"
+msgstr ""
+
+#: widgets/FunFactor.php:199
+msgid "75"
+msgstr ""
+
+#: widgets/FunFactor.php:200 widgets/Skill.php:98
+msgid "Type Number here"
+msgstr ""
+
+#: widgets/FunFactor.php:212
+msgid "Number Sign"
+msgstr ""
+
+#: widgets/FunFactor.php:213
+msgid "+"
+msgstr ""
+
+#: widgets/FunFactor.php:214
+msgid "Type Number Sign here"
+msgstr ""
+
+#: widgets/FunFactor.php:227 widgets/Skill.php:112 widgets/Slider.php:169
+#: widgets/Team.php:126
+msgid "Type title here"
+msgstr ""
+
+#: widgets/FunFactor.php:263 widgets/Instagram.php:244 widgets/PostList.php:167
+#: widgets/Slider.php:276 widgets/Team.php:506 widgets/Testimonial.php:197
+msgid "Settings"
+msgstr ""
+
+#: widgets/FunFactor.php:379 widgets/InfoBox.php:87
+msgid "Icon / Image"
+msgstr ""
+
+#: widgets/FunFactor.php:443 widgets/InfoBox.php:547
+msgid "Size"
+msgstr ""
+
+#: widgets/FunFactor.php:551
+msgid "Number & Title"
+msgstr ""
+
+#: widgets/FunFactor.php:579 widgets/FunFactor.php:630 widgets/InfoBox.php:634
+#: widgets/InfoBox.php:689 widgets/PostList.php:441 widgets/PostList.php:460
+#: widgets/PostList.php:534 widgets/PostList.php:571 widgets/PostList.php:611
+#: widgets/PostList.php:740 widgets/PostList.php:785 widgets/Slider.php:897
+#: widgets/Slider.php:939 widgets/Slider.php:959
+msgid "Color"
+msgstr ""
+
+#: widgets/FunFactor.php:600 widgets/FunFactor.php:651
+msgid "Text Shadow"
+msgstr ""
+
+#: widgets/Heading.php:100
+msgid "Heading Text"
+msgstr ""
+
+#: widgets/Heading.php:114
+msgid "Heading Sub Text"
+msgstr ""
+
+#: widgets/Heading.php:126
+msgid "Heading Description Text"
+msgstr ""
+
+#: widgets/Hero.php:97
+msgid "Bg Image"
+msgstr ""
+
+#: widgets/Hero.php:293 widgets/Hero.php:732 widgets/Team.php:680
+msgid "Social Icon"
+msgstr ""
+
+#: widgets/Hero.php:301
+msgid "Icon Label"
+msgstr ""
+
+#: widgets/Hero.php:341
+msgid "Style"
+msgstr ""
+
+#: widgets/Hero.php:359
+msgid "Icon Hover Color"
+msgstr ""
+
+#: widgets/Hero.php:374
+msgid "Icon List"
+msgstr ""
+
+#: widgets/Hero.php:379
+msgid "FaceBook"
+msgstr ""
+
+#: widgets/Hero.php:386 widgets/Team.php:241
+msgid "Twitter"
+msgstr ""
+
+#: widgets/Hero.php:698
+msgid "Hover Before BG Color"
+msgstr ""
+
+#: widgets/Hero.php:754
+msgid "Social Icon Title"
+msgstr ""
+
+#: widgets/InfoBox.php:154
+msgid "Icons"
+msgstr ""
+
+#: widgets/InfoBox.php:186 widgets/Skill.php:111
+msgid "Generic Title"
+msgstr ""
+
+#: widgets/InfoBox.php:187
+msgid "Type Generic Title Here"
+msgstr ""
+
+#: widgets/InfoBox.php:199
+msgid "Generic Description"
+msgstr ""
+
+#: widgets/InfoBox.php:200
+msgid "Type Generic Description Here"
+msgstr ""
+
+#: widgets/InfoBox.php:418
+msgid "Infobox Content"
+msgstr ""
+
+#: widgets/InfoBox.php:435 widgets/InfoBox.php:487
+msgid "Content Background Color"
+msgstr ""
+
+#: widgets/InfoBox.php:539
+msgid "Icon/Image"
+msgstr ""
+
+#: widgets/InfoBox.php:655
+msgid "Rotate Icon Box"
+msgstr ""
+
+#: widgets/Instagram.php:133 widgets/Slider.php:122 widgets/Testimonial.php:77
+msgid "Slides"
+msgstr ""
+
+#: widgets/Instagram.php:176 widgets/Team.php:154
+msgid "Type link here"
+msgstr ""
+
+#: widgets/Instagram.php:177 widgets/Team.php:155 widgets/Team.php:228
+#: widgets/Team.php:242 widgets/Team.php:256 widgets/Team.php:270
+#: widgets/VideoInfo.php:126
+msgid "#"
+msgstr ""
+
+#: widgets/Instagram.php:193
+msgid "Instagram Item"
+msgstr ""
+
+#: widgets/Instagram.php:252 widgets/Slider.php:284 widgets/Team.php:514
+#: widgets/Testimonial.php:205
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/Instagram.php:254 widgets/Slider.php:286 widgets/Slider.php:309
+#: widgets/Slider.php:321 widgets/Team.php:176 widgets/Team.php:516
+#: widgets/Team.php:539 widgets/Testimonial.php:207 widgets/Testimonial.php:230
+msgid "Yes"
+msgstr ""
+
+#: widgets/Instagram.php:255 widgets/Slider.php:287 widgets/Slider.php:310
+#: widgets/Slider.php:322 widgets/Team.php:177 widgets/Team.php:517
+#: widgets/Team.php:540 widgets/Testimonial.php:208 widgets/Testimonial.php:231
+msgid "No"
+msgstr ""
+
+#: widgets/Instagram.php:264 widgets/Slider.php:296 widgets/Team.php:526
+#: widgets/Testimonial.php:217
+msgid "Slider Speed"
+msgstr ""
+
+#: widgets/Instagram.php:266 widgets/Slider.php:298 widgets/Team.php:528
+#: widgets/Testimonial.php:219
+msgid "Enter Slider Speed"
+msgstr ""
+
+#: widgets/PostList.php:98 widgets/PostList.php:181 widgets/PostList.php:331
+msgid "List"
+msgstr ""
+
+#: widgets/PostList.php:106
+msgid "Source"
+msgstr ""
+
+#: widgets/PostList.php:116
+msgid "Show post by:"
+msgstr ""
+
+#: widgets/PostList.php:120
+msgid "Recent Post"
+msgstr ""
+
+#: widgets/PostList.php:121
+msgid "Selected Post"
+msgstr ""
+
+#: widgets/PostList.php:133
+msgid "Posts"
+msgstr ""
+
+#: widgets/PostList.php:149
+msgid "Item Limit"
+msgstr ""
+
+#: widgets/PostList.php:175
+msgid "Layout"
+msgstr ""
+
+#: widgets/PostList.php:185
+msgid "Inline"
+msgstr ""
+
+#: widgets/PostList.php:196
+msgid "Featured Image"
+msgstr ""
+
+#: widgets/PostList.php:198 widgets/PostList.php:224 widgets/Team.php:85
+#: widgets/Testimonial.php:89
+msgid "Show"
+msgstr ""
+
+#: widgets/PostList.php:199 widgets/PostList.php:225 widgets/Team.php:86
+#: widgets/Testimonial.php:90
+msgid "Hide"
+msgstr ""
+
+#: widgets/PostList.php:222
+msgid "List Icon"
+msgstr ""
+
+#: widgets/PostList.php:339
+msgid "Common"
+msgstr ""
+
+#: widgets/PostList.php:382
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/PostList.php:479
+msgid "Blog Meta"
+msgstr ""
+
+#: widgets/PostList.php:504
+msgid "Meta Color"
+msgstr ""
+
+#: widgets/PostList.php:515
+msgid "Meta Icon Color"
+msgstr ""
+
+#: widgets/PostList.php:553
+msgid "Author"
+msgstr ""
+
+#: widgets/PostList.php:588
+msgid "Icon & Feature Image"
+msgstr ""
+
+#: widgets/PostList.php:627
+msgid "Font Size"
+msgstr ""
+
+#: widgets/PostList.php:657
+msgid "Image Width"
+msgstr ""
+
+#: widgets/PostList.php:705
+msgid "Margin Right"
+msgstr ""
+
+#: widgets/PostList.php:720
+msgid "Meta"
+msgstr ""
+
+#: widgets/PostList.php:752 widgets/PostList.php:797
+msgid "Space Between"
+msgstr ""
+
+#: widgets/PostList.php:776
+msgid "Meta Icon"
+msgstr ""
+
+#: widgets/PostList.php:823
+msgid "SEE MORE"
+msgstr ""
+
+#: widgets/PostList.php:824
+msgid "Type text here"
+msgstr ""
+
+#: widgets/PostList.php:1050
+msgid "No "
+msgstr ""
+
+#: widgets/PostList.php:1052
+msgid "Found"
+msgstr ""
+
+#: widgets/Skill.php:96
+msgid "Skill Number"
+msgstr ""
+
+#: widgets/Skill.php:97
+msgid "70%"
+msgstr ""
+
+#: widgets/Skill.php:156
+msgid "Skill Bars"
+msgstr ""
+
+#: widgets/Skill.php:183
+msgid "Spacing Between"
+msgstr ""
+
+#: widgets/Skill.php:238
+msgid "Label Color"
+msgstr ""
+
+#: widgets/Skill.php:277
+msgid "Percent Color"
+msgstr ""
+
+#: widgets/Skill.php:296
+msgid "Progress Color"
+msgstr ""
+
+#: widgets/Skill.php:307
+msgid "Progress Base Color"
+msgstr ""
+
+#: widgets/Slider.php:137
+msgid "Slider BG Image"
+msgstr ""
+
+#: widgets/Slider.php:155
+msgid "Type subtitle here"
+msgstr ""
+
+#: widgets/Slider.php:168
+msgid "Title Here"
+msgstr ""
+
+#: widgets/Slider.php:182
+msgid "Hero Description"
+msgstr ""
+
+#: widgets/Slider.php:183
+msgid "Type Hero Description Here"
+msgstr ""
+
+#: widgets/Slider.php:194
+msgid "Button Text"
+msgstr ""
+
+#: widgets/Slider.php:208
+msgid "Button Link"
+msgstr ""
+
+#: widgets/Slider.php:307
+msgid "Nav show"
+msgstr ""
+
+#: widgets/Slider.php:319 widgets/Team.php:537 widgets/Testimonial.php:228
+msgid "Dot nav"
+msgstr ""
+
+#: widgets/Slider.php:653
+msgid "Navigation - Arrow"
+msgstr ""
+
+#: widgets/Slider.php:661
+msgid "Position"
+msgstr ""
+
+#: widgets/Slider.php:663
+msgid "None"
+msgstr ""
+
+#: widgets/Slider.php:664
+msgid "Custom"
+msgstr ""
+
+#: widgets/Slider.php:674
+msgid "Vertical"
+msgstr ""
+
+#: widgets/Slider.php:695
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/Slider.php:824 widgets/Team.php:766
+msgid "Navigation - Dots"
+msgstr ""
+
+#: widgets/Slider.php:832 widgets/Team.php:774
+msgid "Vertical Position"
+msgstr ""
+
+#: widgets/Slider.php:850 widgets/Team.php:792
+msgid "Spacing"
+msgstr ""
+
+#: widgets/Slider.php:952 widgets/Team.php:853
+msgid "Active"
+msgstr ""
+
+#: widgets/Team.php:75
+msgid "Members List"
+msgstr ""
+
+#: widgets/Team.php:83
+msgid "Enable Slide"
+msgstr ""
+
+#: widgets/Team.php:101
+msgid "Information"
+msgstr ""
+
+#: widgets/Team.php:125
+msgid "Generic Member Title"
+msgstr ""
+
+#: widgets/Team.php:139
+msgid "Job Title"
+msgstr ""
+
+#: widgets/Team.php:140
+msgid "Generic Officer"
+msgstr ""
+
+#: widgets/Team.php:141
+msgid "Type designation here"
+msgstr ""
+
+#: widgets/Team.php:167
+msgid "Links"
+msgstr ""
+
+#: widgets/Team.php:174
+msgid "Show Options?"
+msgstr ""
+
+#: widgets/Team.php:188
+msgid "Website Address"
+msgstr ""
+
+#: widgets/Team.php:189
+msgid "Add your profile link"
+msgstr ""
+
+#: widgets/Team.php:201
+msgid "Email"
+msgstr ""
+
+#: widgets/Team.php:202
+msgid "Add your email link"
+msgstr ""
+
+#: widgets/Team.php:214
+msgid "Phone"
+msgstr ""
+
+#: widgets/Team.php:215
+msgid "Add your phone link"
+msgstr ""
+
+#: widgets/Team.php:227
+msgid "Facebook"
+msgstr ""
+
+#: widgets/Team.php:229
+msgid "Add your facebook link"
+msgstr ""
+
+#: widgets/Team.php:243
+msgid "Add your twitter link"
+msgstr ""
+
+#: widgets/Team.php:257
+msgid "Add your instagram link"
+msgstr ""
+
+#: widgets/Team.php:269
+msgid "LinkedIn"
+msgstr ""
+
+#: widgets/Team.php:271
+msgid "Add your linkedin link"
+msgstr ""
+
+#: widgets/Team.php:283
+msgid "Youtube"
+msgstr ""
+
+#: widgets/Team.php:284
+msgid "Add your youtube link"
+msgstr ""
+
+#: widgets/Team.php:296
+msgid "Google Plus"
+msgstr ""
+
+#: widgets/Team.php:297
+msgid "Add your Google Plus link"
+msgstr ""
+
+#: widgets/Team.php:309
+msgid "Flickr"
+msgstr ""
+
+#: widgets/Team.php:310
+msgid "Add your flickr link"
+msgstr ""
+
+#: widgets/Team.php:322
+msgid "Vimeo"
+msgstr ""
+
+#: widgets/Team.php:323
+msgid "Add your vimeo link"
+msgstr ""
+
+#: widgets/Team.php:335
+msgid "Behance"
+msgstr ""
+
+#: widgets/Team.php:336
+msgid "Add your hehance link"
+msgstr ""
+
+#: widgets/Team.php:348
+msgid "Dribbble"
+msgstr ""
+
+#: widgets/Team.php:349
+msgid "Add your dribbble link"
+msgstr ""
+
+#: widgets/Team.php:361
+msgid "Pinterest"
+msgstr ""
+
+#: widgets/Team.php:362
+msgid "Add your pinterest link"
+msgstr ""
+
+#: widgets/Team.php:374
+msgid "Github"
+msgstr ""
+
+#: widgets/Team.php:375
+msgid "Add your github link"
+msgstr ""
+
+#: widgets/Team.php:594
+msgid "Members Name"
+msgstr ""
+
+#: widgets/Team.php:635 widgets/Testimonial.php:324
+msgid "Designation"
+msgstr ""
+
+#: widgets/Team.php:689 widgets/Team.php:705
+msgid "Social Icon Color"
+msgstr ""
+
+#: widgets/Team.php:717
+msgid "Social Icon Background Color"
+msgstr ""
+
+#: widgets/Team.php:735
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: widgets/Team.php:746
+msgid "Social Icon Hover Background Color"
+msgstr ""
+
+#: widgets/Testimonial.php:87
+msgid "Quote SWITCHER"
+msgstr ""
+
+#: widgets/Testimonial.php:101
+msgid "profile Image"
+msgstr ""
+
+#: widgets/Testimonial.php:116
+msgid "Generic Message"
+msgstr ""
+
+#: widgets/Testimonial.php:117
+msgid "Type Generic Message here"
+msgstr ""
+
+#: widgets/Testimonial.php:129
+msgid "Generic Client Name"
+msgstr ""
+
+#: widgets/Testimonial.php:130
+msgid "Type Client Name here"
+msgstr ""
+
+#: widgets/Testimonial.php:142
+msgid "Generic Designation"
+msgstr ""
+
+#: widgets/Testimonial.php:143
+msgid "Type Generic Designation Here"
+msgstr ""
+
+#: widgets/Testimonial.php:283
+msgid "Author Name"
+msgstr ""
+
+#: widgets/Testimonial.php:365
+msgid "Message"
+msgstr ""
+
+#: widgets/Testimonial.php:406
+msgid "Quote Icon"
+msgstr ""
+
+#: widgets/VideoInfo.php:93
+msgid "Video Content"
+msgstr ""
+
+#: widgets/VideoInfo.php:101
+msgid "Big Image"
+msgstr ""
+
+#: widgets/VideoInfo.php:124
+msgid "Video URL"
+msgstr ""
+
+#: widgets/VideoInfo.php:127
+msgid "Set Video URL Here"
+msgstr ""
+
+#: widgets/VideoInfo.php:152
+msgid "VideInfo Content"
+msgstr ""
+
+#: widgets/VideoInfo.php:162
+msgid "VidoInfo Icon"
+msgstr ""
+
+#: widgets/VideoInfo.php:170
+msgid "Play Icon Size"
+msgstr ""
+
+#: widgets/VideoInfo.php:188
+msgid "Play Icon Color"
+msgstr ""
+
+#: widgets/VideoInfo.php:199
+msgid "Play Icon BG Color"
+msgstr ""
+
+#: widgets/VideoInfo.php:212
+msgid "VidoInfo Image"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Generic Elements For Elementor"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://generic-elements.bdevs.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The ultimate Elementor Addons"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "bdevs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://bdevs.net/"
+msgstr ""

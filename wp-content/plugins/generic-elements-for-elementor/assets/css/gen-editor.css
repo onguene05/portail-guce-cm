@@ -1,0 +1,47 @@
+/*Elementor Widget icon CSS start*/
+.elementor-panel .elementor-element .icon i.gen-icon::after {
+    width: 18px;
+    height: 18px;
+    content: "";
+    display: inline-block;
+    border-radius: 50px;
+    background: url("../icons/gen-icon.png") no-repeat center center/cover;
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    opacity: .4;
+    transition: all .3s;
+    filter: grayscale(100%);
+}
+
+.elementor-panel .elementor-element:hover .icon i.gen-icon::after {
+    filter: grayscale(0%);
+    opacity: 1;
+}
+
+.elementor-icons-manager__tab-link i.gen-icon {
+    width: 15px;
+    height: 15px;
+    content: "";
+    border-radius: 100%;
+    background: url("../icons/gen-icon.png") no-repeat center center/cover;
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    margin-right: 6px;
+}
+
+div#elementor-panel-category-generic-elements .elementor-element-wrapper .elementor-element:hover .icon i.gen-icon::after {
+    opacity: 1;
+}
+
+div#elementor-panel-category-generic-elements .elementor-element-wrapper .elementor-element:hover .icon i.gen-icon::before {
+    color: #16578F;
+
+}
+
+div#elementor-panel-category-generic-elements .elementor-element-wrapper .elementor-element:hover .elementor-element-title-wrapper .title {
+    color: #16578F;
+}
+
+/*Elementor Widget icon CSS End*/

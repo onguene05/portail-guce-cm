@@ -1,0 +1,83 @@
+
+
+@use "../abstract" as *;
+
+
+/*----------------------------------------*/
+/*   22. Intregration CSS
+/*----------------------------------------*/
+
+
+
+// Intregration style css
+.bd-intregrations-wrapper {
+	padding: 50px 50px;
+	border: 1px solid var(--clr-border-14);
+	@include transition (.3s);
+	@media #{$lg,$xs}{
+		padding: 50px 20px;
+	}
+	&:hover {
+		background: var(--clr-common-white);
+		box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.04);
+		border-color: transparent;
+		border-radius: 6px;
+		.bd-intregrations-icon {
+			animation-name: wobble-vertical;
+			animation-duration: 1s;
+			animation-timing-function: ease-in-out;
+			animation-iteration-count: 1;
+		}
+	}
+}
+.bd-intregrations-icon {
+	img {
+		margin-bottom: 25px;
+		padding-right: 30px;
+	}
+}
+.bd-intregration-content {
+	p {
+		position: relative;
+		margin-bottom: 30px;
+		&:before {
+			position: absolute;
+			content: "";
+			height: 1px;
+			width: 100%;
+			background: var(--clr-border-14);
+			bottom: -30px;
+		}
+	}
+	ul {
+		padding-top: 35px;
+		li {
+			display: flex;
+			align-items: center;
+			color: var(--clr-theme-4);
+			margin-bottom: 10px;
+			font-size: 18px;
+			i {
+				color: var(--clr-theme-5);
+				padding-right: 20px;
+			}
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+	}
+}
+.bd-intregrations-inner {
+	display: flex;
+	align-items: center;
+}
+.bd-intregrations-title {
+	h3 {
+		color: var(--clr-theme-4);
+		a {
+			&:hover {
+				color: var(--clr-theme-5);
+			}
+		}
+	}
+}
